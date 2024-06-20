@@ -1,0 +1,1758 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3BE674E5D7386B7E"
+	group: "13E80A90B3F8B7D2"
+	icon: "minecraft:campfire"
+	id: "3BE674E5D7386B7E"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.642857142857117d
+			y: 1.8035714285714377d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.4285714285714235d
+			y: 1.8035714285714306d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.8214285714285765d
+			y: 1.8035714285714306d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.4285714285714235d
+			y: 2.232142857142861d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.25d
+			y: 1.8035714285714306d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.198979591836732d
+			y: 3.3214285714285907d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.627551020408156d
+			y: 3.3214285714285907d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.636054421768705d
+			y: 3.0017006802721085d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.642857142857117d
+			y: 2.625000000000007d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.642857142857117d
+			y: 2.232142857142861d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.7704081632653015d
+			y: 3.3214285714285907d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.423469387755091d
+			y: 3.3214285714285907d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.4285714285714235d
+			y: 3.017857142857153d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.4285714285714235d
+			y: 2.625000000000007d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "3F663AFCC9CD3719"
+			dev: false
+			height: 1.4d
+			hover: [ ]
+			image: "minecraft:block/nether_portal"
+			rotation: 0.0d
+			width: 0.96d
+			x: 8.02551020408162d
+			y: 2.576530612244902d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["541C243C7557D49E"]
+			description: [
+				"Получит из гравия что то?"
+				"Теперь подобывай палок из листьев."
+			]
+			id: "73631E520A769D6F"
+			rewards: [
+				{
+					id: "7EEFD133BCEA7BC0"
+					item: "minecraft:stick"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "5EB3DD593B42AB48"
+					type: "xp"
+					xp: 5
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 2L
+				id: "4F2D40134B74690D"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["541C243C7557D49E"]
+			description: ["Наврено пора сделать верстак?"]
+			id: "493D8E4D683EC457"
+			rewards: [{
+				id: "4B08197F69894D6C"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "351F30F15D78156A"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["493D8E4D683EC457"]
+			description: ["Пора бы куда нибудь начать складывать вещи, их будет много...."]
+			id: "0672A0B00758F367"
+			rewards: [{
+				id: "265D854D4C59F36C"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 2L
+				id: "508A96BD30646691"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["493D8E4D683EC457"]
+			description: ["Копать, опять копать..."]
+			id: "111E66DAB85B3F3B"
+			rewards: [
+				{
+					id: "59F37E42C907EE0B"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 2
+					id: "55363A59088A8508"
+					item: "minecraft:stick"
+					random_bonus: 4
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "70DC38A0BE8614FC"
+				item: {
+					Count: 1b
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7363DA5AA0F4E879"]
+			description: ["Печь, нужна печь."]
+			id: "1BB4190494A57B36"
+			rewards: [
+				{
+					count: 2
+					id: "602A172AAB8D3F15"
+					item: "minecraft:coal"
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					id: "0BBBA1CF59E78A80"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "2F60FB7E6042EBE7"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7363DA5AA0F4E879"]
+			description: ["После добычи железа ты про нее забудешь как всегда..."]
+			id: "7CB28296BABEFF8B"
+			rewards: [{
+				id: "0D501926B6692122"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2607A3FC04815BFB"
+				item: {
+					Count: 1b
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.7857142857142847d
+			y: -4.482142857142854d
+		}
+		{
+			dependencies: ["111E66DAB85B3F3B"]
+			description: ["Кирку надо сделать. Палку я дал. Булыжник... Булыжник я не дам."]
+			id: "7363DA5AA0F4E879"
+			rewards: [
+				{
+					count: 10
+					id: "40209A10A1FF131C"
+					item: "minecraft:cobblestone"
+					type: "item"
+				}
+				{
+					id: "682AF7DF4BC1C2E3"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				count: 5L
+				id: "774CD3790ABDA106"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7363DA5AA0F4E879"]
+			description: ["Просто да"]
+			id: "3A9F2B71D56C21F0"
+			rewards: [{
+				id: "6FCCF36D3BD7151D"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4F66055C443923BB"
+				item: "minecraft:blast_furnace"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7CB28296BABEFF8B"]
+			description: ["Железо, нужно больше железа."]
+			id: "4BA47AD0F3129A67"
+			rewards: [{
+				id: "19955EC2E692BD3E"
+				item: "minecraft:raw_iron"
+				random_bonus: 9
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				count: 5L
+				id: "1F85ECCD5B1B68C1"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"4BA47AD0F3129A67"
+				"3A9F2B71D56C21F0"
+			]
+			description: ["Почему то мне кажется это самый ценный предмет в этом мире."]
+			id: "7590E6EB9069FA71"
+			rewards: [
+				{
+					id: "09219FD7CD9DF270"
+					item: "minecraft:raw_iron"
+					random_bonus: 9
+					type: "item"
+				}
+				{
+					id: "69BF62A5FF02C4E7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				count: 6L
+				id: "4EC2342A0B093046"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7590E6EB9069FA71"]
+			description: ["Хочешь идти дальше? Иди ищи андезит."]
+			id: "2AFA743BD5CE5E7E"
+			rewards: [{
+				count: 20
+				id: "077AFD05B529FF30"
+				item: "minecraft:andesite"
+				random_bonus: 12
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "3F4AB20001FD3B3F"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			description: ["С чего начинается выживание?"]
+			icon: "minecraft:oak_log"
+			id: "68439B54E34141CC"
+			rewards: [
+				{
+					id: "5292633351F5C188"
+					item: "minecraft:spruce_sapling"
+					type: "item"
+				}
+				{
+					id: "3FFF32CF4DFAD151"
+					item: "minecraft:oak_sapling"
+					type: "item"
+				}
+				{
+					id: "53DCDDAEDEE1F663"
+					item: "minecraft:birch_sapling"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "642A8E285D13C2D7"
+				type: "checkmark"
+			}]
+			title: "Бревна"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["68439B54E34141CC"]
+			icon: "minecraft:oak_planks"
+			id: "541C243C7557D49E"
+			rewards: [
+				{
+					id: "128DEF828CB279D1"
+					item: "minecraft:oxeye_daisy"
+					type: "item"
+				}
+				{
+					id: "4C4A310BD1242A51"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Сделай себе немного досок."
+			tasks: [{
+				id: "432B67537BF56EAE"
+				type: "checkmark"
+			}]
+			title: "Доски"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7590E6EB9069FA71"]
+			id: "68724E06B55A0E31"
+			rewards: [
+				{
+					id: "605D7D2B0D400A5B"
+					item: "minecraft:stonecutter"
+					type: "item"
+				}
+				{
+					id: "635E29B7FE057624"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "468A956AC1FDF2AF"
+				item: {
+					Count: 1b
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7590E6EB9069FA71"]
+			description: ["Я есть железный человек."]
+			id: "56F868E9CBAB2AE3"
+			rewards: [
+				{
+					count: 2
+					id: "68D9BB4CA180C38B"
+					item: "minecraft:iron_ore"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "6D66EE3F66E099B0"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "42A599DC172E8712"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10A8E9FBDC974BF4"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7CD9424AC78A97F8"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F4A2D4C2948822C"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Железная броня."
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["73631E520A769D6F"]
+			id: "4A163C7B7010F0CC"
+			rewards: [
+				{
+					count: 32
+					id: "60672EC2A23AFB71"
+					item: "minecraft:torch"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "4119B9F863AB5A6D"
+					item: "minecraft:coal"
+					random_bonus: 12
+					type: "item"
+				}
+				{
+					id: "2D93EC3056D850F8"
+					type: "xp"
+					xp: 1
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "5F7CC4435C5E13FF"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68724E06B55A0E31"]
+			description: ["Нужно больше алмазов."]
+			id: "08B0E85CF634F9A1"
+			rewards: [
+				{
+					id: "51D324E28D12278F"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "5624059B581434DC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "7F1F6525D7656939"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["08B0E85CF634F9A1"]
+			id: "7D06920E31FB5D73"
+			rewards: [
+				{
+					id: "1C45CD3BF2F01827"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03A03EA06F6A7D8E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "5C846A4751E9EE9C"
+				item: {
+					Count: 1b
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7D06920E31FB5D73"]
+			description: ["А куда это ты намылился?"]
+			id: "53F756B4FA2023F4"
+			rewards: [
+				{
+					count: 2
+					id: "43F1FB1BDF7BA09B"
+					item: "minecraft:obsidian"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "4FEFF991F9E2CFD0"
+					item: {
+						Count: 1b
+						id: "minecraft:flint_and_steel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06D973582285CC50"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "661EF5701B9EA041"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["53F756B4FA2023F4"]
+			description: ["Добро пожаловать в Ад! "]
+			id: "3F663AFCC9CD3719"
+			rewards: [{
+				id: "716C229892767057"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Скоро все там окажемся."
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "6A7333D11E8F9AD2"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["53F756B4FA2023F4"]
+			id: "0130C5F7B01A6E88"
+			rewards: [
+				{
+					id: "1D1F40C34E0ED94A"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4A255CF889228261"
+					item: "minecraft:book"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "302280672C176278"
+					type: "xp"
+					xp: 35
+				}
+			]
+			subtitle: "Чародей? на битву экстрасенсов пойдешь?"
+			tasks: [{
+				id: "5FADE995591D7C1E"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3F663AFCC9CD3719"]
+			description: [""]
+			id: "6014DF528B288AA7"
+			rewards: [{
+				count: 4
+				id: "0D1A0E243BB1C083"
+				item: "minecraft:nether_wart"
+				type: "item"
+			}]
+			subtitle: "Проложи себе путь в Подземную крепость"
+			tasks: [{
+				advancement: "minecraft:nether/find_fortress"
+				criterion: ""
+				icon: "minecraft:nether_bricks"
+				id: "3EA2B06E30A509D3"
+				title: "A Terrible Fortress"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6014DF528B288AA7"]
+			description: [""]
+			id: "52837B4680DED9D2"
+			rewards: [{
+				id: "6AE1B5C4B2D050B0"
+				type: "xp"
+				xp: 600
+			}]
+			subtitle: "Зачем ты носишь черепа мобов?"
+			tasks: [
+				{
+					advancement: "minecraft:nether/get_wither_skull"
+					criterion: ""
+					icon: "minecraft:wither_skeleton_skull"
+					id: "2033EC60051342AB"
+					title: "Spooky Scary Skeleton"
+					type: "advancement"
+				}
+				{
+					count: 3L
+					id: "733F2B802308B43B"
+					item: "minecraft:wither_skeleton_skull"
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["52837B4680DED9D2"]
+			description: [
+				"Буть готов к этой схватке."
+				""
+				""
+			]
+			id: "5485438D83EAE76B"
+			rewards: [{
+				id: "58FE4032A292422A"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:swiftness"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Вызови этого черта."
+			tasks: [{
+				advancement: "minecraft:nether/summon_wither"
+				criterion: ""
+				icon: "minecraft:nether_star"
+				id: "4D511A95FA7A4CA2"
+				title: "Withering Heights"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["5485438D83EAE76B"]
+			description: [""]
+			id: "2477443362931136"
+			rewards: [{
+				auto: "no_toast"
+				id: "350B6DFA29F551D1"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			subtitle: "Построй и установите маяк."
+			tasks: [{
+				advancement: "minecraft:nether/create_beacon"
+				criterion: ""
+				icon: "minecraft:beacon"
+				id: "1F8B66BDE6A9CC48"
+				title: "Bring Home the Beacon"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6014DF528B288AA7"]
+			dependency_requirement: "one_completed"
+			description: [""]
+			id: "08E61077EBB879D1"
+			rewards: [
+				{
+					auto: "invisible"
+					id: "0C25651AFD5D97CF"
+					item: {
+						Count: 1b
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "664900A2D07F1708"
+					item: "minecraft:blaze_rod"
+					type: "item"
+				}
+			]
+			subtitle: "Потуши его пламя."
+			tasks: [{
+				advancement: "minecraft:nether/obtain_blaze_rod"
+				criterion: ""
+				icon: "minecraft:blaze_rod"
+				id: "118F4C3B50527DD2"
+				title: "Into Fire"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["08E61077EBB879D1"]
+			description: [""]
+			id: "31F365DCD47C1501"
+			rewards: [{
+				id: "32D924AD620521CA"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:long_strength"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Сварите  зелье."
+			tasks: [{
+				advancement: "minecraft:nether/brew_potion"
+				criterion: ""
+				icon: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:strength"
+					}
+				}
+				id: "14AF6E52396A0DB5"
+				title: "Local Brewery"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3F663AFCC9CD3719"]
+			description: [""]
+			id: "2A84C26DED2CA575"
+			rewards: [
+				{
+					count: 2
+					id: "1B1168A530692EDB"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "6D50A6C1FE21098B"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Добыть древние обломки"
+			tasks: [{
+				advancement: "minecraft:nether/obtain_ancient_debris"
+				criterion: ""
+				icon: "minecraft:ancient_debris"
+				id: "5E80ABBB61B85B6C"
+				title: "Hidden in the Depths"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2A84C26DED2CA575"]
+			description: [""]
+			icon: {
+				Count: 1b
+				id: "minecraft:netherite_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4D1A2DAA17B00088"
+			rewards: [
+				{
+					auto: "invisible"
+					id: "7F8AF0DD74BFF1C2"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					count: 4
+					id: "00E6BD4CBDBF12AF"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			subtitle: "Получите полный комплект нетеритовых доспехов"
+			tasks: [
+				{
+					disable_toast: true
+					id: "6BA3B370B36A9C79"
+					item: {
+						Count: 1b
+						id: "minecraft:netherite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7C0A204CA1AF5248"
+					item: {
+						Count: 1b
+						id: "minecraft:netherite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "67520722C8C80F00"
+					item: {
+						Count: 1b
+						id: "minecraft:netherite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "263CBD9B42392CFF"
+					item: {
+						Count: 1b
+						id: "minecraft:netherite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Cover Me in Debris"
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2A84C26DED2CA575"]
+			description: [""]
+			id: "04833FA0BC7D59EF"
+			rewards: [{
+				auto: "no_toast"
+				id: "0D6A391889D72E6A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Используйте компас на магнитном камне"
+			tasks: [{
+				advancement: "minecraft:nether/use_lodestone"
+				criterion: ""
+				icon: "minecraft:lodestone"
+				id: "03EC3F9663413AEC"
+				title: "Country Lode, Take Me Home"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3F663AFCC9CD3719"]
+			description: [""]
+			id: "7AD64C9D89626777"
+			rewards: [
+				{
+					count: 2
+					id: "531E6D5A0BE4CBEE"
+					item: "minecraft:diamond_block"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "16A4CC475DDC554D"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			shape: "octagon"
+			subtitle: "Спасите призрака из Преисподней, доставьте его в целости и сохранности домой, в Верхний мир... а затем убейте его."
+			tasks: [{
+				advancement: "minecraft:nether/uneasy_alliance"
+				criterion: ""
+				icon: "minecraft:ghast_tear"
+				id: "1F9A382683FE61C1"
+				title: "Uneasy Alliance"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["08B0E85CF634F9A1"]
+			description: ["Намазываемся алмазами."]
+			id: "0179E3F75E5C7177"
+			rewards: [
+				{
+					count: 2
+					id: "6E4E1C1BB17A650D"
+					item: "minecraft:diamond"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "1632AA688B474D1C"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "61FF6650FBA44C1B"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0CDBD8D945719F68"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68056C4D30F05F20"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28F85185AD8A0763"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Алмазная броня"
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["73631E520A769D6F"]
+			description: [
+				"Давольно интеренсый блок для построек, служит как каркас на который можно применить любую текстуру разных блоков."
+				"Так же есть разные виды этого блока, от скошенных до факелов."
+			]
+			id: "00C44FE39F8D91AE"
+			rewards: [{
+				id: "7273BA7CD1977B3B"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Не пропусти"
+			tasks: [{
+				id: "06A1E3A14DE15EAD"
+				item: "framedblocks:framed_cube"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["08E61077EBB879D1"]
+			description: ["Глаз который смотрит тебе в душу."]
+			id: "015DF039C49827F7"
+			rewards: [
+				{
+					count: 2
+					id: "24B4AA07FCE246AC"
+					item: "minecraft:ender_eye"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "4B83CF9801CF6862"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Кинь, кинь его полностью."
+			tasks: [{
+				count: 2L
+				id: "4B5C1F9182B56FA9"
+				item: "minecraft:ender_eye"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["015DF039C49827F7"]
+			description: ["Если ты хочешь вернуться в свой мир, умри или дерись. "]
+			id: "0484A84B6525C8D7"
+			rewards: [
+				{
+					count: 2
+					id: "4E09C52A3AC5DB07"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "79B9E24044367C4A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Выбор за тобой"
+			tasks: [{
+				advancement: "minecraft:end/root"
+				criterion: ""
+				id: "346AC7369D178BDD"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0484A84B6525C8D7"]
+			description: [
+				"А вы знали что дракон это девочка?"
+				"Я нет, хотя логично она ведь оставляет после себя Яйцо..."
+			]
+			id: "5CA0500ED4E8D68C"
+			rewards: [
+				{
+					count: 5
+					id: "77FCDB83D6B95F45"
+					item: "minecraft:dragon_breath"
+					type: "item"
+				}
+				{
+					id: "11D6B3AD827590BA"
+					type: "xp"
+					xp: 2000
+				}
+			]
+			subtitle: "Арь"
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "101060E64B887F98"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0484A84B6525C8D7"]
+			description: ["Ты давай возвращайся, а то заблудишься."]
+			id: "26A9EE037A3FCA4C"
+			rewards: [{
+				id: "103811ADB44AA1BD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+				id: "43A19C03CAE00ECC"
+				type: "advancement"
+			}]
+			x: 11.17857142857143d
+			y: 7.517857142857139d
+		}
+		{
+			dependencies: ["26A9EE037A3FCA4C"]
+			id: "3D36B5BE92952F95"
+			rewards: [
+				{
+					count: 2
+					id: "631D0AD963CDED6A"
+					item: "minecraft:milk_bucket"
+					type: "item"
+				}
+				{
+					id: "136BE780556EB7CF"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:end/find_end_city"
+				criterion: ""
+				id: "0AFAE8264F737B6F"
+				type: "advancement"
+			}]
+			title: "Будь как дома путник, я ни в чем не откажу."
+			x: 12.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["3D36B5BE92952F95"]
+			id: "5DBE2E7EDF4B57E2"
+			rewards: [
+				{
+					id: "5ABCB763AAC7FEFE"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 11
+					id: "421BF456DB30A1CA"
+					item: {
+						Count: 1b
+						id: "minecraft:firework_rocket"
+						tag: {
+							Fireworks: {
+								Flight: 1b
+							}
+						}
+					}
+					random_bonus: 12
+					type: "item"
+				}
+			]
+			subtitle: "Поехали!"
+			tasks: [{
+				advancement: "minecraft:end/elytra"
+				criterion: ""
+				id: "10B18FBE4503D657"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["26A9EE037A3FCA4C"]
+			description: ["Это крупное животное Конца света - мирное плавающее существо, которое счастливо проводит свои дни, просто плавая по лесам Хоруса и поедая плоды хоруса. Вы можете заманить к себе его, держа в руках плод Хоруса, который вы также можете использовать для их разведения."]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:endergrade"
+				}
+			}
+			id: "611934A46171A769"
+			rewards: [
+				{
+					id: "3EBB81B32DC1E29F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "144501F73404659D"
+					item: "minecraft:stick"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "24C5C0E9697B0186"
+					item: "minecraft:string"
+					type: "item"
+				}
+				{
+					id: "3DA0DE1EC0141FA7"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+			]
+			subtitle: "Милашка"
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_endergrade"
+				}
+				id: "47B37E5BEF2BE0E4"
+				observe_type: 5
+				timer: 0L
+				title: "Endergrade"
+				to_observe: "alexsmobs:endergrade"
+				type: "observation"
+			}]
+			x: 11.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["611934A46171A769"]
+			description: [
+				" Создав фрукт Хоруса на удочке, вы сможете управлять им в любом направлении, в котором захотите."
+				"Но не забудь про седло!)"
+				"Приручить его можно хорусом,если не приручить, улетит вместе с седлом."
+			]
+			id: "4ABF85BFC75410D1"
+			rewards: [{
+				id: "59F44DD404670F04"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "3AFAB5187494066E"
+				item: "alexsmobs:chorus_on_a_stick"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["26A9EE037A3FCA4C"]
+			description: [
+				"Энтерофагам"
+				""
+				"Просто гигантский вирус. Его основная добыча - эндерград, но он также будет атаковать эндерменов. Если позволить вирусу передаваться дальше, он будет поражать хозяина до тех пор, пока тот не умрет и не разовьется новыми эндериофагами."
+			]
+			id: "2DF6365FF3EEDC35"
+			rewards: [{
+				id: "7BAB7B470F6991C3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/enderiophage"
+				criterion: ""
+				id: "4408AF05C3A162E0"
+				title: "End Virus"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6014DF528B288AA7"]
+			description: ["Багровый комар родом из Багровых лесов, где он может высосать кровь практически любого существа. Затем он может выплюнуть эту кровь обратно на другие цели. Достаточно опасный враг, если не один."]
+			id: "5CD5DB516A62CD0C"
+			rewards: [{
+				id: "3CEB5DF2694DFEE4"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Взял средство от комаров?"
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/crimson_mosquito"
+				criterion: ""
+				id: "5AE4722E694251A6"
+				title: "Cimson Mosquito Encountered"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5CD5DB516A62CD0C"]
+			description: ["Личинка малинового комара, приготовленная из личинки и хоботка. Это любимое лакомство искривленной жабы, и с помощью нескольких из них вы сможете приручить ее."]
+			id: "082997F95DD60C8D"
+			rewards: [{
+				count: 2
+				id: "4ADE4822F64FE605"
+				item: "alexsmobs:mosquito_larva"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EF2E121663D7440"
+				item: "alexsmobs:mosquito_larva"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2DF6365FF3EEDC35"]
+			description: ["Cтранный блок вроде как немного светится."]
+			id: "1A24C656C31010ED"
+			rewards: [{
+				id: "5DB7EC138D71D119"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "5200A0A88AE55340"
+				item: "alexsmobs:capsid"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"1A24C656C31010ED"
+				"082997F95DD60C8D"
+			]
+			description: ["Нажми личинкой по капсиду."]
+			id: "289DF412FBB5C4F4"
+			rewards: [{
+				id: "50D1FA7BBDC5CD21"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "2E26DF9EED3E9382"
+				title: "Гуид"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["289DF412FBB5C4F4"]
+			description: [
+				"Оно живое. Кинь это в пустоту энда и готовься к бою."
+				"Советую запостись стрелами."
+			]
+			id: "75ED76D4333F01AC"
+			rewards: [{
+				id: "2D708825991B5739"
+				type: "xp"
+				xp: 1
+			}]
+			subtitle: "Гамункул"
+			tasks: [{
+				id: "5614B7121DA3461F"
+				item: "alexsmobs:mysterious_worm"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["75ED76D4333F01AC"]
+			id: "6975C1DED6EC71F9"
+			rewards: [
+				{
+					id: "242D60ECEFDAFF3A"
+					type: "xp"
+					xp: 1500
+				}
+				{
+					count: 16
+					id: "46430272FA808C25"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			subtitle: "Не бей по телу!"
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/void_worm_split"
+				criterion: ""
+				id: "03703E26FDE323BF"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["75ED76D4333F01AC"]
+			description: ["Вот он настоящий владыка энда."]
+			id: "6630142E4E528373"
+			rewards: [
+				{
+					id: "6FAA2D0D30696D34"
+					type: "xp"
+					xp: 2500
+				}
+				{
+					count: 6
+					id: "005AC001CB78C9BE"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			subtitle: "Главное на размер.."
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/void_worm_kill"
+				criterion: ""
+				id: "4D8A064AE949E3CE"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["082997F95DD60C8D"]
+			description: [
+				"Искривленная жаба - редкое порождение в Искривленных лесах, которое является нейтральным. Ее любимая пища - багровые комары, поэтому, возможно, стоит завести одного из них в качестве друга."
+				"Ее можно вылечить личинками и хлебом с личинкой малинового комара."
+			]
+			id: "628343DB0CC59DDE"
+			rewards: [{
+				id: "0AB99E3773B1825B"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "А вот и средство от комаров."
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_warped_toad"
+				criterion: ""
+				id: "17B92026A414C6EF"
+				title: "Mosquito Repellent"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["00C44FE39F8D91AE"]
+			description: ["напиши в jei \"мосты\" или \"bridge\" (извините не переведено)"]
+			id: "24D9506E0A308951"
+			rewards: [{
+				id: "6C023867AE0797E3"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "4625C19BEC1DA102"
+				title: "В игре есть прикольные мосты, поищи в jei"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			description: ["Если увидишь такую тыкву, лучше пройди мимо если не готов к  драке."]
+			icon: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+			id: "1517552DB99F9AE3"
+			rewards: [{
+				id: "200347AD112D54F7"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Не советую ломать такую тыкву."
+			tasks: [{
+				id: "13A6CDD90BBC8A60"
+				title: "danger"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7590E6EB9069FA71"]
+			description: ["Нажав пкм стамеской вы откроете ее меню, просто добавьте внутрь подходящий блок и увидите все доступные варианты."]
+			id: "7F41EF7A2164CB03"
+			rewards: [{
+				id: "56511F51E0759C51"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "45189E79EF3C29FC"
+				item: "buildersdelight:iron_chisel"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7F41EF7A2164CB03"]
+			description: [
+				"Больше часть блоков можно менять визуально в стамеске."
+				"Декаративный мод по просьбе игроков."
+			]
+			id: "0A82C4A232B1C90D"
+			rewards: [{
+				id: "319FE5E9226DCB5A"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Положи его в стамеску."
+			tasks: [{
+				count: 16L
+				id: "7038553ACF330E68"
+				item: { Count: 16b, id: "buildersdelight:industrial_1" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["541C243C7557D49E"]
+			description: ["Посмотри в jei крафт мебели."]
+			hide_dependency_lines: true
+			icon: "furnitura:oak_chair"
+			id: "40537A13DD2E81E0"
+			rewards: [{
+				id: "62D34571CE6222B8"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "@furnitura"
+			tasks: [{
+				id: "05D1C935D36ADDF3"
+				title: "Фурнитура"
+				type: "checkmark"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+	]
+	title: "Начало Пути"
+}

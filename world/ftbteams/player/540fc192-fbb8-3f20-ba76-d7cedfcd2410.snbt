@@ -1,0 +1,17 @@
+{
+	id: "540fc192-fbb8-3f20-ba76-d7cedfcd2410"
+	type: "player"
+	player_name: "koshan232"
+	ranks: {
+		540fc192-fbb8-3f20-ba76-d7cedfcd2410: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "koshan232"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

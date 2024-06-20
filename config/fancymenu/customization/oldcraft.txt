@@ -1,0 +1,257 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  restart_on_load = false
+  name = identifier_0e22ea
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = bottom-left
+  x = 6
+  action = movebutton
+  y = -130
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 192
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = bottom-left
+  x = 30
+  action = movebutton
+  y = -86
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = bottom-left
+  x = 53
+  action = movebutton
+  y = -86
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-left
+  x = 53
+  action = movebutton
+  y = -64
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-left
+  x = 154
+  action = movebutton
+  y = -86
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -152
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = bottom-left
+  x = 104
+  action = movebutton
+  y = -130
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = top-left
+  x = 112
+  action = movebutton
+  y = 323
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 270
+  width = 421
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 05228b7e-df0e-476f-912b-ce9c8f5d4f431706533522105
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = bce32a2c-151a-4226-93fb-47d573ff5d161706533522110
+  y = 463
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 647
+  width = 312
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = d8542df4-11bb-466a-8ed8-f9bde52e49e31706533522110
+  y = 485
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = f48a44d7-edc7-4b2d-9286-28541ac9d4661706533522110
+  y = 226
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 38b8836c-1a5e-476e-8a1c-9c8d96205d8f1706533522110
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = b7b4b7a8-a600-4ff8-80bb-bc972af976481706533522110
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = joinserver;95.216.92.86:25727%btnaction_splitter_fm%
+  description = Что бы попасть к нам на сервер нужно купить недорогую проходку, подробнисти в Discord канале.
+  label = Присоединится в мир 
+  loopbackgroundanimations = true
+  hoverlabel = Вы должны быть в Whitelist'e.
+  x = 27
+  width = 150
+  action = addbutton
+  actionid = 9839639f-369f-49fe-af5c-ad8a5c57e0151706535206771
+  y = -108
+  height = 20
+}
+
+customization {
+  path = resources/identifier_0e22ea/logo/eraworld.png
+  orientation = top-centered
+  x = -152
+  width = 320
+  action = addtexture
+  actionid = 0ae3c72c-ac7a-450c-a874-c2edaf928ea11706551239617
+  y = 28
+  height = 73
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Сборка создана Ne0n_Cat при содействии molenwvvie.
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -282
+  width = 283
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = ff8097b2-e1ad-4e2f-b97f-28a0b43411fa1706551504975
+  y = -13
+  alignment = left
+  height = 40
+}
+
+customization {
+  orientation = bottom-left
+  loopbackgroundanimations = true
+  hoverlabel = Поддержка\Сервер.
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/aeUKZwC6M6%btnaction_splitter_fm%
+  x = 52
+  width = 100
+  action = addbutton
+  actionid = 4a54d11b-6dc0-4802-b7a3-35be26bbcfe01708446237084
+  y = -174
+  label = Discord
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.donationalerts.com/r/eraworld%btnaction_splitter_fm%
+  description = На развитие сборки.
+  label = $
+  loopbackgroundanimations = true
+  hoverlabel = Спасибо.
+  x = 154
+  width = 48
+  action = addbutton
+  actionid = ed8aeb34-b72d-4769-8268-57f4285b8fe31709558911992
+  y = -174
+  height = 20
+}
+

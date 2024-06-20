@@ -1,0 +1,1684 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "alexs_mobs"
+	group: "0222F7831B6E22AB"
+	icon: "alexsmobs:tab_icon"
+	id: "0399220027D545F6"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4E20E64264B2AA55"]
+			description: ["Со временем у медведей гризли случайно выпадет часть их шерсти."]
+			id: "11AD9C3E6F7ED206"
+			rewards: [{
+				id: "340E06F7124FEBEF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5600BE1C666EA251"
+				item: "alexsmobs:bear_fur"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["32F7D28F7B29709C"]
+			description: ["Роудраннеры откажутся от них, если проиграют сражения с гремучими змеями .... или с вами."]
+			id: "7462427AC1D865C7"
+			rewards: [{
+				id: "7362384A28563B41"
+				item: "alexsmobs:roadrunner_feather"
+				type: "item"
+			}]
+			tasks: [{
+				id: "062115DFB9A8E0A6"
+				item: "alexsmobs:roadrunner_feather"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["7462427AC1D865C7"]
+			description: ["Эти ботинки, позволят пользователям быстрее бегать по песку."]
+			id: "12976ADEDD3B9090"
+			rewards: [{
+				id: "572BCFB7DCCC3B47"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "12F81678685F16CD"
+				item: {
+					Count: 1b
+					id: "alexsmobs:roadrunner_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -12.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["617FBFA90048602D"]
+			description: [""]
+			id: "1561DE019D318A18"
+			rewards: [{
+				count: 4
+				id: "23142A2F01E41DEC"
+				item: "minecraft:mutton"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7ABF08CE502BA3D7"
+				item: "alexsmobs:gazelle_horn"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["4B89A8800535AB16"]
+			description: ["Этот предмет дропается когда детеныши крокодилов взрослеют или их убивают."]
+			id: "2FBC1196F9B59DF7"
+			rewards: [{
+				count: 3
+				id: "65E65E9D89D5AB31"
+				item: "alexsmobs:crocodile_scute"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C695EDB244719DB"
+				item: "alexsmobs:crocodile_scute"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["2FBC1196F9B59DF7"]
+			description: ["Эта броня из крокодиловой кожи обеспечит вам некоторую защиту, но также увеличит скорость вашего плавания."]
+			id: "7B74EDBD46057811"
+			rewards: [{
+				id: "641B159A3198F44C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "55B1F5C0010212AB"
+				item: {
+					Count: 1b
+					id: "alexsmobs:crocodile_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["49AB71E75762D0B9"]
+			description: ["A maggot will drop when a Fly is killed."]
+			id: "042E30144F9A1D2A"
+			rewards: [{
+				count: 3
+				id: "20E0157B26AF049E"
+				item: "alexsmobs:maggot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2CFDD31640066490"
+				item: "alexsmobs:maggot"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -8.0d
+		}
+		{
+			description: ["Редкая дроп с листьев джунглей. "]
+			id: "2CF3F2F094B0D3B1"
+			rewards: [{
+				count: 5
+				id: "45C540FB68964752"
+				item: "alexsmobs:banana"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F2509E78CBF66D8"
+				item: "alexsmobs:banana"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["295FFF98AC0C3FB2"]
+			description: ["Падает, когда ее убивают."]
+			id: "1670F799696648EA"
+			rewards: [{
+				id: "1D77006C38694FB8"
+				item: "minecraft:milk_bucket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "14B04FCEC03DCB1E"
+				item: "alexsmobs:rattlesnake_rattle"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2C2D57D238A96C47"]
+			description: ["Случайный предмет акулы-молота, который может выпасть при атаке."]
+			id: "12903E07FD2AA25B"
+			rewards: [{
+				count: 3
+				id: "19061E1292F8E483"
+				item: "alexsmobs:shark_tooth"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B77AD7BC335F364"
+				item: "alexsmobs:shark_tooth"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["12903E07FD2AA25B"]
+			description: ["Эти стрелы лучше летят под водой, где они наносят дополнительный урон морским существам."]
+			id: "77213B3F102D54FC"
+			rewards: [{
+				count: 11
+				id: "7D5E3E3B7942FD70"
+				item: "alexsmobs:shark_tooth_arrow"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F6970038AA15D78"
+				item: "alexsmobs:shark_tooth_arrow"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["6BC74F4BAEA808FF"]
+			description: ["An occasional drop from live Komodo Dragons."]
+			id: "08F33774046B54FC"
+			rewards: [{
+				count: 2
+				id: "7ADC6ADEC9153DD8"
+				item: "alexsmobs:komodo_spit"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D23CE0916F75F31"
+				item: "alexsmobs:komodo_spit"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08F33774046B54FC"]
+			description: ["Taking a few drops of saliva and putting it into a bottle could be pretty potent."]
+			id: "7EBEA1931702D1E5"
+			rewards: [{
+				id: "1CB8CAD5C0311D3E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "62EC16B92C5F9D63"
+				item: "alexsmobs:komodo_spit_bottle"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"7EBEA1931702D1E5"
+				"154772C9462DDCC4"
+			]
+			description: ["The very definition of poison."]
+			id: "598345B0F9427722"
+			rewards: [{
+				id: "649407DAF5400409"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "0EA839DFED08E778"
+				item: "alexsmobs:poison_bottle"
+				type: "item"
+			}]
+			x: -13.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"598345B0F9427722"
+				"1670F799696648EA"
+			]
+			description: ["Очень мощное зелье против яда, приготовленное из ядовитой эссенции и хвоста гремучей змеи."]
+			id: "310DB627AF3DCE9B"
+			rewards: [{
+				id: "3B9EC2967752C2D7"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6AB5340F587CFDC4"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "alexsmobs:poison_resistance"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["76291B63F0ED9022"]
+			description: ["Случайная дроп от обезьян-капуцинов, когда их кормили бананами."]
+			id: "05B3DE276E40F772"
+			rewards: [{
+				id: "1677938C00103DCA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1461BD6CFCC7D731"
+				item: "alexsmobs:banana_peel"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["05B3DE276E40F772"]
+			description: ["Может быть, попробуешь немного этого супа?"]
+			id: "5FE4BCE33C614980"
+			rewards: [{
+				id: "3C82761AB3FB798E"
+				item: "minecraft:beetroot_soup"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7DE107F6DBEF8906"
+				item: "alexsmobs:sopa_de_macaco"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3231E98238491AF0"]
+			description: ["Этот предмет выпадает из пещерной сороконожки, когда ее убивают, причем можно сбросить несколько штук."]
+			id: "154772C9462DDCC4"
+			rewards: [{
+				count: 2
+				id: "1AAB98F4A877062B"
+				item: "alexsmobs:centipede_leg"
+				type: "item"
+			}]
+			tasks: [{
+				id: "180B35B0BB919AD9"
+				item: "alexsmobs:centipede_leg"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["154772C9462DDCC4"]
+			description: ["Дает владельцу возможность лазать по стенам."]
+			id: "673635AB75E98296"
+			rewards: [{
+				id: "61D9563F82FA27DA"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "364EC70179948791"
+				item: {
+					Count: 1b
+					id: "alexsmobs:centipede_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -14.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3705153037F1DDEE"]
+			description: ["Каждые 7-10 дней лось может сбросить один из своих рогов."]
+			id: "2DFC032306822F4E"
+			rewards: [{
+				id: "42B83502B5DC6F7D"
+				item: "alexsmobs:moose_antler"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D8CA585B9505139"
+				item: "alexsmobs:moose_antler"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["2DFC032306822F4E"]
+			description: ["Прикрепив к этой шляпе несколько оленьих рогов, игрок получит возможность отбивать удары."]
+			id: "27F0DB0AF1386C6D"
+			tasks: [{
+				id: "2A68C851464EBAC0"
+				item: {
+					Count: 1b
+					id: "alexsmobs:moose_headgear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3705153037F1DDEE"]
+			description: ["Рёбрышки."]
+			id: "61C774465250F5E2"
+			rewards: [{
+				id: "472FB949C5746205"
+				item: "alexsmobs:moose_ribs"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B83A5C69A722347"
+				item: "alexsmobs:moose_ribs"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["61C774465250F5E2"]
+			description: ["Настало время барбекю!"]
+			id: "11AFA0A04E10DF94"
+			tasks: [{
+				id: "32DB582575A5FAC4"
+				item: "alexsmobs:cooked_moose_ribs"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["5AF05B20BB414210"]
+			description: ["Стоило ли это того?"]
+			id: "43A6451E42293BAC"
+			subtitle: "Хвост енота"
+			tasks: [{
+				id: "166A0DF287F39D32"
+				item: "alexsmobs:raccoon_tail"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["43A6451E42293BAC"]
+			description: [""]
+			id: "5E067D93C8018428"
+			rewards: [{
+				id: "7B09E7CD8A48EFC5"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "Изверг"
+			tasks: [{
+				id: "1CFD2F5A909BAEE3"
+				item: {
+					Count: 1b
+					id: "alexsmobs:frontier_cap"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -14.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["2142DDB9A0AF6B94"]
+			description: ["When you want a slimey little buddy of your own."]
+			id: "759CC2ED6720614D"
+			tasks: [{
+				id: "50F159BA577FC800"
+				item: "alexsmobs:blobfish_bucket"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2142DDB9A0AF6B94"]
+			description: ["Печальное маленькое тельце рыбы-капли, когда ее убивают."]
+			id: "235A8DAEDFF467D7"
+			rewards: [{
+				id: "0AFFC4BA380655F0"
+				item: "alexsmobs:blobfish"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3286E77C29DC9875"
+				item: "alexsmobs:blobfish"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["235A8DAEDFF467D7"]
+			description: ["Запрессовав рыбу-каплю в бутылку, можно получить рыбий жир, который может обладать некоторыми интересными свойствами во время дождя."]
+			id: "005E68B4C5271269"
+			rewards: [{
+				count: 2
+				id: "1E95E4F3FA1EEE0C"
+				item: "alexsmobs:fish_oil"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C7464F62CB0DD68"
+				item: "alexsmobs:fish_oil"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1670F799696648EA"]
+			description: ["Эта погремушка сделана из хвоста гремучей змеи. Она привлечет внимание тараканов."]
+			id: "679FB7E7C654385F"
+			rewards: [{
+				id: "32FDBAEAB5DEBC1B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "19D31D99E32BAF86"
+				item: "alexsmobs:maraca"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3B5935EFBF9C27D7"]
+			description: ["A random drop when killing Cockroaches."]
+			id: "147F7EA3E650C141"
+			rewards: [{
+				count: 3
+				id: "632F82CF39CB7BA0"
+				item: "alexsmobs:cockroach_wing_fragment"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A1E5CD54BAF7A7F"
+				item: "alexsmobs:cockroach_wing_fragment"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["147F7EA3E650C141"]
+			description: ["A rebuilt wing of a Cockroach."]
+			id: "4DC3338C71A2086D"
+			rewards: [{
+				id: "59E077B437620EEE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2FD18E114E0FE331"
+				item: "alexsmobs:cockroach_wing"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4DC3338C71A2086D"]
+			description: ["Это зелье позволит человеку стать почти невидимым для враждебных насекомых."]
+			id: "3B1E5DEBB7BE02F1"
+			rewards: [{
+				id: "6C27111D0D893390"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "1B05EE63E81476D3"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "alexsmobs:bug_pheromones"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			description: ["Редкая дроп с деревьев акации."]
+			id: "568B1FDB06169851"
+			rewards: [{
+				count: 2
+				id: "4CC4667252307EDB"
+				item: "alexsmobs:acacia_blossom"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79126CD9D0AD4237"
+				item: "alexsmobs:acacia_blossom"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["6964B640BF90A11C"]
+			description: ["Случайны дроп."]
+			id: "76AAFE97A27F9401"
+			rewards: [{
+				count: 2
+				id: "0494940CD1D9299C"
+				item: "alexsmobs:spiked_scute"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2354928341859A19"
+				item: "alexsmobs:spiked_scute"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["76AAFE97A27F9401"]
+			description: ["Этот модифицированный черепаший шлем обеспечивает устойчивость к удару и позволяет владельцу дышать под водой еще 15 секунд. Также есть шанс отражать атаки в ближнем бою."]
+			id: "7C7C37A9744A5749"
+			rewards: [{
+				id: "43EC41F6B0FDA9A9"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "43B7921B92D4A21C"
+				item: {
+					Count: 1b
+					id: "alexsmobs:spiked_turtle_shell"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["051CA3BEF47E6BCF"]
+			description: ["Дроп."]
+			id: "38854ED19F0C1963"
+			rewards: [{
+				id: "6E9B1E0DDF597ECD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3E740055ADB7D366"
+				item: "alexsmobs:emu_egg"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["38854ED19F0C1963"]
+			description: ["Целый омлет в скорлупе."]
+			id: "5155710838D1A547"
+			rewards: [{
+				count: 2
+				id: "14A50E2C25011DB8"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3CE12C0C528D8BB6"
+				item: "alexsmobs:boiled_emu_egg"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["051CA3BEF47E6BCF"]
+			description: ["An Emu drop when killed."]
+			id: "369959C82AF24ECD"
+			rewards: [{
+				id: "54A122BBF62F12B5"
+				item: "alexsmobs:emu_feather"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2EDDC0933AB806CE"
+				item: "alexsmobs:emu_feather"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"369959C82AF24ECD"
+				"4FBF9E3701C078F6"
+			]
+			description: ["Gives the wearer the Emu dodge ability."]
+			id: "25B989B6383563D8"
+			rewards: [{
+				id: "0E1C3B1A350B4391"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "417EE5A316C452B3"
+				item: {
+					Count: 1b
+					id: "alexsmobs:emu_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["6941D667244F04D9"]
+			description: ["A Kangaroo drop when they are sadly killed."]
+			id: "62E977DBD3A3F3FE"
+			rewards: [{
+				id: "2CD6531416286BE0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F70AF34DD1E0BC5"
+				item: "alexsmobs:kangaroo_meat"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["62E977DBD3A3F3FE"]
+			description: ["Можно было и не есть кенгуру."]
+			id: "5156BA2D508BE4D0"
+			rewards: [{
+				count: 2
+				id: "66684701385986D7"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D30E69B7CB6A0D1"
+				item: "alexsmobs:cooked_kangaroo_meat"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["6941D667244F04D9"]
+			description: ["Кожа кенгуру."]
+			id: "4FBF9E3701C078F6"
+			rewards: [{
+				id: "2512B0CB217F59B2"
+				item: "alexsmobs:kangaroo_hide"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C057F378B832103"
+				item: "alexsmobs:kangaroo_hide"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0433861EE023060D"]
+			description: ["Перчатка для соколиной охоты позволит вам подбирать прирученных белоголовых орланов. Затем, ударив кулаком, указывая на толпу с большого расстояния, вы отправите орла атаковать ее. Если орел не парит над толпой, он просто спрыгнет."]
+			id: "7FB236F280E77256"
+			rewards: [{
+				id: "04796FFBC98B6167"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2C5C6F871671B792"
+				item: "alexsmobs:falconry_glove"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["7FB236F280E77256"]
+			description: ["Капюшон для соколиной охоты позволяет лучше контролировать полет белоголового орлана, предоставляя возможность управлять полетом орла от третьего лица. Орел может пролететь на расстоянии до 150 кварталов от своего владельца. Скрытность остановит режим полета."]
+			id: "2BA83FDF7240DE8B"
+			rewards: [{
+				id: "4F3A3484F915BF3F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3C040D4468053D5C"
+				item: "alexsmobs:falconry_hood"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["737BD5F672EB23AF"]
+			description: ["A drop when a Tarantula Hawk is killed."]
+			id: "5F33DAD5DEE9892A"
+			rewards: [{
+				count: 4
+				id: "2FCFAB7AF6960D59"
+				item: "alexsmobs:tarantula_hawk_wing_fragment"
+				type: "item"
+			}]
+			tasks: [{
+				id: "470FA84FF6B6CF89"
+				item: "alexsmobs:tarantula_hawk_wing_fragment"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5F33DAD5DEE9892A"]
+			description: ["A reconstructed Tarantula Hawk wing."]
+			id: "4480FBB32C9E3248"
+			rewards: [{
+				id: "2A11577510479A13"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4818558C819F7EE6"
+				item: "alexsmobs:tarantula_hawk_wing"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4480FBB32C9E3248"]
+			description: ["Усиленные надкрылья с крыльями ястреба-тарантула, которые обеспечивают дополнительную защиту, долговечность и очарование."]
+			id: "6F5AC67DDB20ADB4"
+			tasks: [{
+				id: "446C9044228A45EE"
+				item: {
+					Count: 1b
+					id: "alexsmobs:tarantula_hawk_elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"Encounter a Grizzly Bear"
+				""
+				"Хотя эти лесные медведи могут показаться милыми, лучше держаться на расстоянии от медведя гризли, поскольку поблизости могут быть детеныши, которых они будут яростно защищать. Естественно, они очень нейтральные мобы."
+			]
+			id: "4E20E64264B2AA55"
+			rewards: [
+				{
+					id: "392508A9633EF701"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "06ECDBF446334306"
+					item: "minecraft:honeycomb"
+					type: "item"
+				}
+				{
+					id: "43D6B59710139384"
+					item: "minecraft:salmon"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/grizzly_bear"
+				criterion: ""
+				id: "2CDF8914DBF19EC1"
+				title: "Grizzly Bear Encountered"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["4E20E64264B2AA55"]
+			description: ["Медведя гризли можно приручить, подождав, пока он съест немного меда, или скормив медведю пчелиные соты, а затем покормив его лососем. Они свирепые защитники, и их много."]
+			id: "240F618AC1E292F7"
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_grizzly_bear"
+				criterion: ""
+				id: "57620075DD5F169C"
+				title: "Teddy the Bear"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["1561DE019D318A18"]
+			description: ["Необычное зелье скорости, которое поможет вам быстрее добраться туда, куда вы направляетесь."]
+			id: "792DBA9FA8A22FD5"
+			rewards: [{
+				id: "57D012BE4C75F766"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5842E473899E6454"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "alexsmobs:speed_iii"
+					}
+				}
+				type: "item"
+			}]
+			x: -12.5d
+			y: -11.0d
+		}
+		{
+			description: ["Крокодил - это крупное болотное и речное существо, находиться рядом с которым очень опасно. Вы все еще можете разводить этих существ, хотя и с использованием гнилой плоти. Когда яйцо вылупляется, в детеныше запечатлевается находящийся поблизости игрок, и он будет слушаться их команд."]
+			id: "4B89A8800535AB16"
+			rewards: [{
+				id: "15818836E32A1165"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/crocodile"
+				criterion: ""
+				id: "1CBE91AD76108762"
+				title: "Crocodile Encountered"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -13.0d
+		}
+		{
+			description: ["Черепахи-аллигаторы - это крупные болотные черепахи. Они откусят все, что окажется слишком близко. Они редко двигаются и покрывают свой панцирь слоем мха."]
+			id: "6964B640BF90A11C"
+			rewards: [{
+				id: "743900948393C170"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/alligator_snapping_turtle"
+				criterion: ""
+				id: "76B42026258E100A"
+				title: "Alligator Snapping Turtle Encountered"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["2CF3F2F094B0D3B1"]
+			description: [
+				"Tame a Gorilla with bananas."
+				""
+				"Гориллы - крупные человекообразные обезьяны, обитающие в джунглях, где они миролюбивы, но умеют постоять за себя. Гориллы с серебристой спиной возглавят каждую стаю, где можно увидеть детенышей горилл, цепляющихся за спины своих горилл."
+			]
+			id: "49474262BB1DD1F1"
+			rewards: [{
+				id: "5C48D2813A425EAF"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_gorilla"
+				criterion: ""
+				id: "5B394498182F2EA9"
+				title: "Mighty Joe Young"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["2CF3F2F094B0D3B1"]
+			description: [
+				"Tame a Capuchin Monkey with bananas."
+				""
+				"Эти маленькие обезьянки распространены в джунглях, они любят, когда им дают бананы. Будучи прирученными, они могут сидеть на плече у своего друга, следовать за ним, бродить, оставаться и даже атаковать как в ближнем бою, так и на расстоянии."
+				"They can be fed eggs to heal them but maggots are used to breed them. "
+			]
+			id: "76291B63F0ED9022"
+			rewards: [{
+				id: "40C6CE211C59FD35"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_capuchin"
+				criterion: ""
+				id: "515F2AE9A1C47768"
+				title: "Mini Mo"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -8.0d
+		}
+		{
+			description: ["Гремучая змея - ядовитая змея, обитающая в пустынях и бесплодных землях. О ее местонахождении обычно можно узнать по характерному дребезжащему звуку, издаваемому ее хвостом. Они кусают и отравляют человека, если во время дребезжания подобраться слишком близко."]
+			id: "295FFF98AC0C3FB2"
+			rewards: [{
+				id: "613720ADBE74AA81"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/rattlesnake"
+				criterion: ""
+				id: "5ED6AA67B994CB19"
+				title: "Rattlesnake Encountered"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"679FB7E7C654385F"
+				"3B5935EFBF9C27D7"
+			]
+			description: ["Кто знает, что произойдет, если вы дадите таракану Мараку."]
+			id: "0E7A15BD940ECF8E"
+			rewards: [{
+				id: "2AAFE2A5B5C9E176"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/la_cucaracha"
+				criterion: ""
+				id: "1139B235EB572777"
+				title: "La Cucaracha"
+				type: "advancement"
+			}]
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["568B1FDB06169851"]
+			description: [
+				"Приручите слона без клыков."
+				""
+				"Слоны - крупные обитатели саванн. Их можно встретить в трех разновидностях: детеныши, бивни и без бивней. В целом слоны очень защищают все свое стадное семейство. Полноразмерных бивневых слонов невозможно приручить цветами акации. Иногда его можно рассматривать как животное бродячего торговца."
+			]
+			id: "2FF82B88371F5F07"
+			rewards: [{
+				count: 4
+				id: "7CD84B3A95C81ACC"
+				item: "alexsmobs:acacia_blossom"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_elephant"
+				criterion: ""
+				id: "152BF44EB964BD44"
+				title: "Safari Adventure"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["2FF82B88371F5F07"]
+			description: [
+				"Приручите слона с бивнями, когда он был маленьким."
+				""
+				"Слонов с бивнями можно приручить только в детстве, но они вырастут свирепыми защитниками."
+			]
+			id: "24285EBFC92AD6C5"
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_elephant_tusked"
+				criterion: ""
+				id: "0DD7CF75490E294D"
+				title: "Greatest Warrior"
+				type: "advancement"
+			}]
+			x: -8.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["2FF82B88371F5F07"]
+			description: [
+				"Положите цветной ковер на прирученного слона."
+				""
+				"Слонов можно украсить разноцветными коврами, а также добавить к ним сундуки, чтобы они могли перевозить много предметов."
+			]
+			id: "4718CFDE2B4A98EB"
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/elephant_swag"
+				criterion: ""
+				id: "44DF9DD4AE95E8DD"
+				title: "Elephant Style"
+				type: "advancement"
+			}]
+			x: -9.5d
+			y: -11.0d
+		}
+		{
+			description: [
+				"Креветки-богомолы могут жить только в воде и будут медленно умирать, если слишком долго пробудут на суше, если только прирученной креветке-богомолу не дадут ведро воды, чтобы помочь ей выжить на суше."
+				""
+				"Креветок-богомолов можно приручить, накормив их тропическими рыбами."
+				""
+				"Для прирученных креветок-богомолов можно настроить четыре режима:"
+				""
+				"-Подписаться: заставляет креветку-богомола следовать за своим владельцем."
+				"-Остаться: заставляет креветку-богомола оставаться на месте."
+				"-Странствие: Заставляет креветку-богомола бесцельно разгуливать."
+				"-Взламывание блоков: заставляет Креветку-богомола искать блоки, идентичные тому, что у нее в руке, чтобы разбить их."
+			]
+			id: "1404B0021D22163E"
+			rewards: [{
+				id: "1D0707B97CF39192"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_mantis_shrimp"
+				criterion: ""
+				id: "7DCC80D0F958A866"
+				title: "Bullets, for Hands"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["1404B0021D22163E"]
+			description: ["Give tamed mantis shrimp a bucket of water"]
+			id: "7E59CB5BD918ED99"
+			rewards: [{
+				id: "4E56FF11EE680F8E"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/mantis_shrimp_bucket"
+				criterion: ""
+				id: "1B8A368CA6453177"
+				title: "I'm Parched"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: -8.0d
+		}
+		{
+			description: [
+				"Tame a Bald Eagle with Fish Oil."
+				""
+				"Белоголовые орланы - нейтральные крупные птицы, обитающие вблизи гор с большим количеством деревьев. Они летают к озерам, чтобы достать лосося из воды или поохотиться на близлежащих кроликов. Их можно заманить и приручить рыбьим жиром. Они следуют типичным командам преследователя. Их можно вылечить рыбой и разводить гнилой плотью."
+			]
+			id: "0433861EE023060D"
+			rewards: [{
+				id: "365BA621DBDCC387"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_bald_eagle"
+				criterion: ""
+				id: "60979777BE765F46"
+				title: "Not Really Bald"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["2BA83FDF7240DE8B"]
+			description: ["Убейте животное с расстояния в 100 блоков с помощью белоголового орлана в капюшоне."]
+			id: "2FABD2A54A4B0A4E"
+			rewards: [{
+				id: "1B5D3E2FB281EEF5"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/bald_eagle_challenge"
+				criterion: ""
+				id: "0DC163D693E32FA0"
+				title: "Long Distance Killer"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -11.0d
+		}
+		{
+			description: [
+				""
+				""
+				"Ястребы-тарантулы будут регулярно атаковать Пауков, один раз ужалив их с эффектом Изнуряющего укуса, в результате чего Паук будет парализован.После этого Ястреб-Тарантул возьмет парализованного Паука в свои жвала и будет некоторое время таскать его, пока Ястреб-Тарантул не закопает Паука в мягкий блок, похожий на Грязь."
+			]
+			id: "3CA1304CC6ED84A5"
+			rewards: [{
+				id: "732299EB567FA6CA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tarantula_hawk"
+				criterion: ""
+				id: "7D15C1F72B8C19A2"
+				title: "Tarantula Hawk Encountered"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3CA1304CC6ED84A5"]
+			description: [
+				""
+				"Ястребов-тарантул можно приручить, скормив им паучьи глаза."
+			]
+			id: "737BD5F672EB23AF"
+			rewards: [{
+				id: "0FE3CD398E6B8B3C"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_tarantula_hawk"
+				criterion: ""
+				id: "470721B071F9795A"
+				title: "Pet Flying Devil"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"Kangaroo Encountered"
+				""
+				"Крупные прыгающие друзья саванны и бесплодных земель, кенгуру - нейтральные существа. Они очень хорошо умеют защищаться. Их можно приручить с помощью моркови, где они приобретают обычные характеристики преследователя и доступное хранилище, незаметно щелкнув правой кнопкой мыши. Оружие ближнего боя, шлем и нагрудник, помещенные в хранилище, могут быть использованы кенгуру. Можно лечить немясной пищей и разводить с помощью мертвого куста или травы."
+			]
+			id: "6941D667244F04D9"
+			rewards: [{
+				id: "5A0479B4BC8A8A61"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/kangaroo"
+				criterion: ""
+				id: "681C7849CB7DF7F8"
+				title: "Kangaroo Jack"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -9.0d
+		}
+		{
+			description: [
+				"Emu Encountered"
+				""
+				"Крупная наземная птица, эму обитает в саваннах и бесплодных землях. Сначала они впадают в панику при нападении, но могут вернуться к атаке. Хотя им нравится нападать на скелеты. Их можно разводить с пшеницей, но нельзя приручить. Они будут появляться в нескольких разных цветах."
+			]
+			id: "051CA3BEF47E6BCF"
+			rewards: [{
+				id: "1C791AFC6001ADDD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/emu"
+				criterion: ""
+				id: "2FC20090FF5FDCC1"
+				title: "Emu Day Out"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -9.0d
+		}
+		{
+			description: [
+				"Еноты будут отбиваться, если игрок нападет на одного из них, и будут кусаться."
+				""
+				"Если енот найдет контейнер для хранения, например, сундук, то он украдет все продукты, находящиеся внутри, и съест их позже. "
+				""
+				"Енотов можно приручить, скормив им яйцо, а затем позволив Еноту вымыть его в воде."
+			]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:raccoon"
+				}
+			}
+			id: "5AF05B20BB414210"
+			rewards: [{
+				id: "5C0FF384D71A826C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_raccoon"
+				}
+				id: "49FC758D86668539"
+				observe_type: 5
+				timer: 0L
+				title: "Raccoon"
+				to_observe: "alexsmobs:raccoon"
+				type: "observation"
+			}]
+			x: -14.0d
+			y: -13.0d
+		}
+		{
+			description: [
+				"Газели разгуливают по округе, но их часто можно увидеть большими стадами."
+				""
+				"Если атакована одна газель в стаде, остальные Газели убегут вместе с той, на которую напали. Однако иногда кто-нибудь из Газелей отстает."
+				""
+				"Газелей можно разводить с помощью цветов акации или Пшеницы."
+			]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:gazelle"
+				}
+			}
+			id: "617FBFA90048602D"
+			rewards: [{
+				id: "535B1936F6BCB6D6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_gazelle"
+				}
+				id: "40DBF5969ABB4E8F"
+				observe_type: 5
+				timer: 0L
+				title: "Gazelle"
+				to_observe: "alexsmobs:gazelle"
+				type: "observation"
+			}]
+			x: -12.5d
+			y: -13.0d
+		}
+		{
+			description: ["This annoying bug is pretty common across the overworld. They will chase and bite zombies to near death. They are bred with rotten flesh. Make sure these do not get into the Nether...."]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:fly"
+				}
+			}
+			id: "49AB71E75762D0B9"
+			rewards: [{
+				id: "2C6DFA122BB1BD9B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3F5513E24A79A11D"
+				title: "Fly Encountered"
+				type: "checkmark"
+			}]
+			x: -14.0d
+			y: -9.0d
+		}
+		{
+			description: [
+				"Лоси, большие мальчики Тундры и Тайги, нейтральны, но очень способны защитить себя."
+				"Can be bred with dandelions."
+			]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:moose"
+				}
+			}
+			id: "3705153037F1DDEE"
+			rewards: [{
+				id: "79451D01310FF620"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_moose"
+				}
+				id: "6033D9052F201CE6"
+				observe_type: 5
+				timer: 0L
+				title: "Moose"
+				to_observe: "alexsmobs:moose"
+				type: "observation"
+			}]
+			x: -9.5d
+			y: -9.0d
+		}
+		{
+			description: [
+				"Комодский дракон - самая крупная ящерица, которую вы когда-либо видели, с которой вы могли познакомиться, путешествуя по бесплодным землям. Они нападают практически на все, так что будьте осторожны, у них очень ядовитый укус."
+				"If given a very large amount of rotten flesh they can be tamed where they will fiercely protect their friends and are also a good mount."
+			]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:komodo_dragon"
+				}
+			}
+			id: "6BC74F4BAEA808FF"
+			rewards: [{
+				id: "2F797E77AFEA73A8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_komodo_dragon"
+				}
+				id: "4B357D8812F881B3"
+				observe_type: 5
+				timer: 0L
+				title: "Komodo Dragon"
+				to_observe: "alexsmobs:komodo_dragon"
+				type: "observation"
+			}]
+			x: -12.5d
+			y: -5.0d
+		}
+		{
+			description: ["Быстрая наземная птица, которую можно встретить в пустынях и бесплодных землях. Они охотятся на гремучих змей. Могут разводиться с помощью личинок."]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:roadrunner"
+				}
+			}
+			id: "32F7D28F7B29709C"
+			rewards: [{
+				id: "751F3F802322873E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_roadrunner"
+				}
+				id: "04AD791F15719F0C"
+				observe_type: 5
+				timer: 0L
+				title: "Roadrunner"
+				to_observe: "alexsmobs:roadrunner"
+				type: "observation"
+			}]
+			x: -12.5d
+			y: -9.0d
+		}
+		{
+			description: ["Редкий подземный жук, которого можно найти глубоко под землей. Он медленно передвигается, но у него сильный укус и он ядовит."]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:centipede_head"
+				}
+			}
+			id: "3231E98238491AF0"
+			rewards: [{
+				id: "6DA04C9E1A2BF052"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_centipede"
+				}
+				id: "1CBFA39AB4589B71"
+				observe_type: 5
+				timer: 0L
+				title: "Cave Centipede"
+				to_observe: "alexsmobs:centipede_head"
+				type: "observation"
+			}]
+			x: -14.0d
+			y: -5.0d
+		}
+		{
+			description: [
+				"Тараканов можно встретить под землей, в темных углах пещер. Хотя обычно они боятся людей, их можно кормить сахаром или хлебом, чтобы они чувствовали себя более комфортно. Они также съедят любую пищу, брошенную на землю."
+				"Their most unique ability may be the ability to lose their head and keep on running though. They can be bred with sugar."
+			]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:cockroach"
+				}
+			}
+			id: "3B5935EFBF9C27D7"
+			rewards: [{
+				id: "061AD01051C06419"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_cockroach"
+				}
+				id: "47F5DCA1294B0DEB"
+				observe_type: 5
+				timer: 0L
+				title: "Cockroach"
+				to_observe: "alexsmobs:cockroach"
+				type: "observation"
+			}]
+			x: -8.5d
+			y: -5.0d
+		}
+		{
+			description: ["Эта..... мягкая рыба обычно обитает глубоко в океанах. Использование слизи на рыбе-капле позволит ей выжить на суше."]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:blobfish"
+				}
+			}
+			id: "2142DDB9A0AF6B94"
+			rewards: [{
+				id: "2E6F7297801F88E0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_blobfish"
+				}
+				id: "3ED5AAA8C71CB733"
+				observe_type: 5
+				timer: 0L
+				title: "Blobfish"
+				to_observe: "alexsmobs:blobfish"
+				type: "observation"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			description: ["Акула-молот - крупное существо, обитающее в теплых океанах. Это хищник любого существа, здоровье которого ниже половины."]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:tab_icon"
+				tag: {
+					DisplayEntityType: "alexsmobs:hammerhead_shark"
+				}
+			}
+			id: "2C2D57D238A96C47"
+			rewards: [{
+				id: "20ECCF756CC54EDE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "alexsmobs:spawn_egg_hammerhead_shark"
+				}
+				id: "32CBFE9471A8B5D5"
+				observe_type: 5
+				timer: 0L
+				title: "Hammerhead Shark"
+				to_observe: "alexsmobs:hammerhead_shark"
+				type: "observation"
+			}]
+			x: 5.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["11AD9C3E6F7ED206"]
+			description: ["Это зелье, приготовленное из медвежьей шерсти и зелий силы, создаст зелье, дающее устойчивость к опрокидыванию."]
+			id: "2655420D8A840C65"
+			rewards: [{
+				id: "1F36BF0D45D44C77"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7F6CA93CB8FA72D9"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "alexsmobs:knockback_resistance"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -11.0d
+		}
+	]
+	title: "Alex Mob's"
+}

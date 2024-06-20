@@ -1,0 +1,1223 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6205C7CD5542BD3A"
+	group: "197AD5175CBD7328"
+	icon: "ae2:charged_certus_quartz_crystal"
+	id: "6205C7CD5542BD3A"
+	images: [
+		{
+			click: ""
+			corner: false
+			dependency: "1B43DB28A200E2B1"
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ae2:block/drive/drive_front_flat"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.500000000000014d
+			y: 3.76785714285716d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "1720D0EFBA84DABC"
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ae2:part/terminal_medium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "1720D0EFBA84DABC"
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ae2:part/terminal"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "6A4B13810239EC74"
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "ae2:block/growth_accelerator_on"
+			rotation: 0.0d
+			width: 0.5d
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "026E80B8661114E2"
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "ae2:block/flawed_budding_quartz"
+			rotation: 0.0d
+			width: 0.5d
+			x: -0.07653061224490187d
+			y: 6.014030612244902d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "026E80B8661114E2"
+			dev: false
+			height: 0.5d
+			hover: [ ]
+			image: "ae2:block/quartz_cluster"
+			rotation: 0.0d
+			width: 0.5d
+			x: -0.11734693877551194d
+			y: 5.565051020408163d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "23CCC8BF6F997618"
+			dev: false
+			height: 1.0d
+			hover: [
+				"1к"
+				"Структура подключается кабелями к Мэ регулятору."
+				"Будь внимателен тебе может не хватить каналов в кабели."
+			]
+			image: "ae2:block/crafting/1k_storage"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "021852F94F1F9F06"
+			dev: false
+			height: 1.0d
+			hover: ["Блок обработки изготовления"]
+			image: "ae2:block/crafting/accelerator"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.000000000000007d
+			y: -3.696428571428566d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "2F57E7CBC052C008"
+			dev: false
+			height: 1.0d
+			hover: ["Монитор изготовления"]
+			image: "ae2:block/crafting/monitor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.000000000000007d
+			y: -2.8392857142857117d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "70A6360A36C111AF"
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "oldcraft:block/inscruber"
+			rotation: 0.0d
+			width: 2.988505747126437d
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "3FDC2E041887BD51"
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "oldcraft:block/inscruber2"
+			rotation: 0.0d
+			width: 1.9473684210526316d
+			x: 3.0190476190475977d
+			y: 1.9136904761904887d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "7CC06718D3FA2A29"
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "oldcraft:block/inscruber3"
+			rotation: 0.0d
+			width: 3.6d
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "4D850221BDFD495E"
+			dev: false
+			height: 1.0d
+			hover: [
+				"В него помещаются шаблоны с крафтом."
+				"Не забудь все подключить к регулятору."
+			]
+			image: "ae2:block/pattern_provider"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.164285714285711d
+			y: 2.994642857142857d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "7259D3BD8DE3F4BB"
+			dev: false
+			height: 1.0d
+			hover: ["Собирает вещи по шаблонам."]
+			image: "ae2:block/molecular_assembler"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.021428571428572d
+			y: 2.994642857142857d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Зарядник? Ну и зачем нам зарядник?"]
+			hide: true
+			id: "57A3D04A3C38B375"
+			rewards: [{
+				id: "57ABA113D55BC028"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "53025F8A90B666E2"
+				item: "ae2:charger"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["79F83E28AD1F3969"]
+			description: ["Зарядил, и что дальше? В воду кидать?"]
+			hide: true
+			id: "026E80B8661114E2"
+			rewards: [{
+				id: "08928FEBBF206B3E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 5L
+				id: "152C9587ECC3BB65"
+				item: "ae2:charged_certus_quartz_crystal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["026E80B8661114E2"]
+			description: [""]
+			hide: true
+			id: "085E32C0DD4369EB"
+			rewards: [
+				{
+					id: "27F0778726456574"
+					item: "ae2:certus_quartz_crystal"
+					random_bonus: 9
+					type: "item"
+				}
+				{
+					id: "6C4EA25CB21823E6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "6574B73FA2A957CB"
+				item: "ae2:fluix_crystal"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["57A3D04A3C38B375"]
+			description: [
+				"Зарядил компос))"
+				"Ну пойду куда показывает..."
+			]
+			hide: true
+			id: "0065F1F8A9D70514"
+			rewards: [{
+				id: "7AF75551740BDE39"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "68AC87960F8D5806"
+				item: "ae2:meteorite_compass"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0065F1F8A9D70514"]
+			description: ["Поверь, они нужны."]
+			hide: true
+			icon: "ae2:sky_stone_block"
+			id: "79F83E28AD1F3969"
+			rewards: [
+				{
+					id: "0276DEB29F595A09"
+					type: "xp"
+					xp: 200
+				}
+				{
+					count: 5
+					id: "658EEF086A7A7676"
+					item: "ae2:certus_quartz_crystal"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "059462FB0965AEC3"
+					item: "ae2:certus_quartz_dust"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4B1260244084C125"
+					item: "ae2:silicon_press"
+					type: "item"
+				}
+				{
+					id: "6B05422F7A0AF4CB"
+					item: "ae2:calculation_processor_press"
+					type: "item"
+				}
+				{
+					id: "32B6994E184847CD"
+					item: "ae2:engineering_processor_press"
+					type: "item"
+				}
+				{
+					id: "18B190A92FC26D72"
+					item: "ae2:logic_processor_press"
+					type: "item"
+				}
+			]
+			title: "Метеориты"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5FD27312A04E6EBD"]
+			description: ["Используется для ускорения роста истиного кварца из цветущего блока истинного кварца."]
+			hide: true
+			id: "6A4B13810239EC74"
+			rewards: [
+				{
+					id: "1FFB5D45620887C9"
+					item: "ae2:growth_accelerator"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3AB960A551C0C94F"
+					item: "ae2:fluix_glass_cable"
+					type: "item"
+				}
+				{
+					id: "286B9561D1ECCEB3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "08AB13357CC1F67A"
+				item: "ae2:growth_accelerator"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["085E32C0DD4369EB"]
+			description: [
+				"Самый простой кабель в МЭ системе. Передаёт 8 каналов по сети. Также используется как ингредиент при крафте."
+				"Может быть покрашен."
+			]
+			hide: true
+			id: "5FD27312A04E6EBD"
+			rewards: [
+				{
+					id: "56C666A19E3E8A3A"
+					item: "ae2:certus_quartz_crystal"
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					id: "5552E294BF00F116"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				count: 10L
+				id: "15A814FF395E8C12"
+				item: "ae2:fluix_glass_cable"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57A3D04A3C38B375"]
+			hide: true
+			id: "6296E71D445C0E02"
+			rewards: [
+				{
+					id: "35CBF4BA79F439E8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "0743D81609DD71F7"
+					item: {
+						Count: 1b
+						id: "minecraft:shears"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1CF578CE3A2FDEF7"
+				item: "ae2:inscriber"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6296E71D445C0E02"]
+			description: ["Нужен для получения кварцевого стекла."]
+			hide: true
+			id: "049DE3FEEED12D22"
+			rewards: [
+				{
+					count: 2
+					id: "5D2D0B887FF3A1BD"
+					item: "ae2:certus_quartz_crystal"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "743997FE0BC56B65"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				count: 6L
+				id: "2DFCB230B42E5DCE"
+				item: "ae2:certus_quartz_dust"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["049DE3FEEED12D22"]
+			description: ["Хм,вроде обычное стекло."]
+			hide: true
+			id: "04C688A0E4195B88"
+			rewards: [{
+				id: "0742CB5AD9879A90"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "737419B1C9F314AF"
+				item: "ae2:quartz_glass"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["049DE3FEEED12D22"]
+			hide: true
+			id: "036FD7F9CA6393DC"
+			rewards: [
+				{
+					count: 32
+					id: "778FE60D1F9D8291"
+					item: "minecraft:glass"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "58A67583573E1578"
+					item: "ae2:certus_quartz_dust"
+					random_bonus: 32
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "5D44588A89FAE32A"
+				item: "ae2:quartz_fiber"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6296E71D445C0E02"]
+			description: ["Применяется для создания элементов МЭ системы."]
+			hide: true
+			id: "7CC06718D3FA2A29"
+			rewards: [
+				{
+					count: 16
+					id: "0B83EE98ED1BFDC1"
+					item: "minecraft:diamond"
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					id: "7ECED56A62D8E28D"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "415A38E72E811F35"
+					item: "ae2:printed_silicon"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "524460CB8581F14F"
+					item: "ae2:printed_logic_processor"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "4F9A3E5B93A35B45"
+					item: "ae2:printed_engineering_processor"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "3492AA9DE70C8760"
+					item: "ae2:printed_calculation_processor"
+					type: "item"
+				}
+			]
+			title: "Печатные схемы"
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["049DE3FEEED12D22"]
+			hide: true
+			id: "3FDC2E041887BD51"
+			tasks: [{
+				count: 16L
+				id: "1820FA1A84B51682"
+				item: "ae2:silicon"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7CC06718D3FA2A29"]
+			description: [
+				"Является центром МЭ сети. Без него могут взаимодействовать только 8 устройств. Если добавить больше, всё перестаёт работать. В одной МЭ Сети не может быть двух МЭ контроллеров,но можно создать многоблочную структуру контроллера."
+				"Источники энергии нужно подключать к нему напрямую. "
+			]
+			hide: true
+			id: "13308B1D8B50EC73"
+			rewards: [
+				{
+					count: 16
+					id: "315CF2DB20D413AC"
+					item: "ae2:fluix_glass_cable"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6D9E35104417EEAC"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55BC54DBF6473E4C"
+				item: "ae2:controller"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13308B1D8B50EC73"]
+			hide: true
+			id: "2167C9C03329BAFA"
+			tasks: [{
+				id: "727BE17A828C2140"
+				item: "ae2:monitor"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["33A384D693761161"]
+			description: [
+				"Является устройством взаимодействия, которое даёт вам доступ к сетевому хранилищу МЭ Сети."
+				"Через терминалы можно ложить вещи ЛЮБЫЕ, пока незабъется ячейка хранения, чем больше памяти тем больше вещей можно хранить."
+			]
+			hide: true
+			id: "1720D0EFBA84DABC"
+			tasks: [{
+				id: "36FB18678C101E34"
+				item: "ae2:terminal"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1720D0EFBA84DABC"]
+			description: ["Является улучшенной версией МЭ терминала, который имеет интегрированную сетку крафта с доступом к сетевому хранилищу МЭ Сети."]
+			hide: true
+			id: "7B75912E4B537C95"
+			tasks: [{
+				id: "66123121EA162301"
+				item: "ae2:crafting_terminal"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["13308B1D8B50EC73"]
+			description: ["Хранилище ячеек памяти. Имеет 10 слотов. Для доступа подключите МЭ терминал."]
+			hide: true
+			id: "1B43DB28A200E2B1"
+			rewards: [
+				{
+					count: 8
+					id: "2A3D0B82F8634185"
+					item: "ae2:fluix_glass_cable"
+					type: "item"
+				}
+				{
+					id: "20FC077A4DA6BB91"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "6886074B72ED9097"
+				item: "ae2:drive"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70A6360A36C111AF"]
+			description: ["Это своего рода жёсткие диски без корпуса. Используются для записи предметов и блоков в игре."]
+			hide: true
+			id: "7AD310CC78FFA4FA"
+			tasks: [{
+				count: 3L
+				id: "5372ADFE1C0DC31E"
+				item: "ae2:cell_component_1k"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7AD310CC78FFA4FA"]
+			description: ["Это своего рода жёсткие диски без корпуса. Используются для записи предметов и блоков в игре."]
+			hide: true
+			id: "6CC61DE1B4291F5A"
+			min_required_dependencies: 1
+			tasks: [{
+				count: 3L
+				id: "6B32AD59D37B976B"
+				item: "ae2:cell_component_4k"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6CC61DE1B4291F5A"]
+			description: ["Это своего рода жёсткие диски без корпуса. Используются для записи предметов и блоков в игре."]
+			hide: true
+			id: "275CE6335ADAB928"
+			tasks: [{
+				count: 3L
+				id: "1213D0777F6474B6"
+				item: "ae2:cell_component_16k"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["275CE6335ADAB928"]
+			description: ["Это своего рода жёсткие диски без корпуса. Используются для записи предметов и блоков в игре."]
+			hide: true
+			id: "5C51B7C4D534C1FD"
+			tasks: [{
+				id: "5D161FBECE0A7865"
+				item: "ae2:cell_component_64k"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"7AD310CC78FFA4FA"
+				"6CC61DE1B4291F5A"
+				"275CE6335ADAB928"
+				"5C51B7C4D534C1FD"
+			]
+			dependency_requirement: "one_completed"
+			description: ["Это пустой корпус, в который можно установить МЭ компоненты памяти"]
+			hide: true
+			id: "6DC3100EA1895517"
+			rewards: [
+				{
+					count: 16
+					id: "26A552D7E29D28CC"
+					item: "ae2:silicon"
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					id: "27A58B5BAB0DEDE5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "20A6104065A809B4"
+				item: "ae2:item_cell_housing"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6A4B13810239EC74"]
+			description: [
+				"Для автоматизации процесса можно использовать плоскость уничтожения."
+				"Предмет попадет в автоматически в МЭ систему если есть ячейки хранения."
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "26B562E670AC3C9E"
+			shape: "gear"
+			tasks: [{
+				id: "6B83B88D0AF10A0F"
+				item: "ae2:annihilation_plane"
+				type: "item"
+			}]
+			x: 0.7857142857142847d
+			y: 4.633928571428569d
+		}
+		{
+			dependencies: ["6DC3100EA1895517"]
+			description: ["Воткни ячейку хранения в МЭ дисковод."]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "ae2:item_storage_cell_1k"
+				tag: { }
+			}
+			id: "5FA01A49C18C22D7"
+			tasks: [{
+				id: "23CC1E45C62FF0BF"
+				title: "Запускаем сервер"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7AD310CC78FFA4FA"]
+			description: [
+				"Представляет собой портативный инвентарь."
+				"Удобная вещь."
+			]
+			hide: true
+			id: "5A0E5B2950743BBA"
+			rewards: [
+				{
+					id: "47C274E5CB2AE617"
+					item: "ae2:cell_component_1k"
+					type: "item"
+				}
+				{
+					id: "4250745EB2CD6161"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "507E68239077EA5F"
+				item: {
+					Count: 1b
+					id: "ae2:portable_item_cell_1k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2167C9C03329BAFA"]
+			id: "33A384D693761161"
+			rewards: [{
+				count: 16
+				id: "44CB1BD3A96E57AC"
+				item: "ae2:certus_quartz_dust"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "09AEC557F4610BFF"
+					item: "ae2:formation_core"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "262DFA54BCB66F6F"
+					item: "ae2:annihilation_core"
+					type: "item"
+				}
+			]
+			title: "Ядра"
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["33A384D693761161"]
+			description: [
+				"Извлекает элементы из инвентаря блока, на который она установлена, и помещает их в МЭ Сеть, сетевые хранилища данных."
+				"Нужная вещь в автоматизации."
+			]
+			hide: true
+			id: "239E79DB326845C2"
+			rewards: [
+				{
+					count: 16
+					id: "0A0DEF1CE873D5B1"
+					item: "minecraft:slime_ball"
+					type: "item"
+				}
+				{
+					id: "25B2AB6C1265D9F7"
+					type: "xp"
+					xp: 60
+				}
+			]
+			tasks: [{
+				id: "64A72D0789FFC7B8"
+				item: "ae2:import_bus"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["33A384D693761161"]
+			description: [
+				"Извлекает элементы из МЭ сети (сетевые хранилища данных) и помещает их в инвентарь блока, на который она установлена."
+				"Нужно для доставки предметов в механизмы при автокрафте."
+			]
+			hide: true
+			id: "4B90823771302173"
+			rewards: [{
+				id: "3638594783C41BB5"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "336972466D45DE94"
+				item: "ae2:export_bus"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13308B1D8B50EC73"]
+			description: ["Базовый элемент, для создания компонентов Многоблочного процессора. Может являться его частью, но без каких-либо функций."]
+			hide: true
+			id: "4585EB1E5665B335"
+			tasks: [{
+				id: "4C96EF6BEA46674C"
+				item: "ae2:crafting_unit"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4585EB1E5665B335"]
+			description: ["Компонент Многоблочного процессора, который обеспечивает доставку предмета от процессора до МЭ интерфейса для крафта."]
+			hide: true
+			id: "021852F94F1F9F06"
+			tasks: [{
+				id: "25E0E5A8D85896CC"
+				item: "ae2:crafting_accelerator"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4585EB1E5665B335"]
+			description: [
+				"Компонент Многоблочного процессора, который обеспечивает 1024 байт памяти для крафта."
+				"Для более сложного крафта требуется больше памяти."
+			]
+			hide: true
+			id: "23CCC8BF6F997618"
+			tasks: [{
+				id: "05B3CACC446FD568"
+				item: "ae2:1k_crafting_storage"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4585EB1E5665B335"]
+			description: [
+				"Компонент Многоблочного процессора, который отображает задание верхнего уровня и его текущий прогресс."
+				"Не обязательный бок в многоблочном процессоре."
+			]
+			hide: true
+			id: "2F57E7CBC052C008"
+			rewards: [
+				{
+					count: 16
+					id: "50B7474550A2CE87"
+					item: "ae2:certus_quartz_crystal"
+					type: "item"
+				}
+				{
+					id: "57D356E082A09CF6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "211809D4AE3E26A7"
+				item: "ae2:crafting_monitor"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["33A384D693761161"]
+			description: ["Главное назначение МЭ поставщика — взаимодействие с обработчиками материалов при помощи шаблонов, такими как печь, например."]
+			hide: true
+			id: "4D850221BDFD495E"
+			rewards: [
+				{
+					count: 6
+					id: "5327FA1CA01F7DE5"
+					item: "ae2:fluix_glass_cable"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "39493C1C4C3AB57F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "58FFADC982C790C3"
+				item: "ae2:pattern_provider"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5FD27312A04E6EBD"]
+			hide: true
+			id: "57F34E468BBBC66C"
+			rewards: [{
+				count: 2
+				id: "485E327A146863CC"
+				item: "ae2:fluix_covered_cable"
+				random_bonus: 8
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E7C7CCA637B0A87"
+				item: "ae2:fluix_covered_cable"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57F34E468BBBC66C"]
+			description: ["Обеспечивают диагностическую функцию, визуализируя канал использования на кабелях."]
+			hide: true
+			id: "5983CACE71CAB848"
+			rewards: [
+				{
+					count: 6
+					id: "1710B50696F63496"
+					item: "ae2:fluix_crystal"
+					type: "item"
+				}
+				{
+					id: "29FEAFF93A5903A7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "7B4A1D7E8B569369"
+				item: "ae2:fluix_smart_cable"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["57F34E468BBBC66C"]
+			hide: true
+			id: "0FECAEE228E4017F"
+			rewards: [{
+				count: 2
+				id: "51520FBC2659E177"
+				item: "ae2:fluix_covered_dense_cable"
+				random_bonus: 8
+				type: "item"
+			}]
+			tasks: [{
+				id: "713C661CDF318C63"
+				item: "ae2:fluix_covered_dense_cable"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0FECAEE228E4017F"]
+			description: ["Высоко-мощный кабель, может поддерживать 32 канала в отличие от стандартного кабеля, который может поддерживать только 8. Не подключаются сетевые устройства, используйте предыдущие кабели."]
+			hide: true
+			id: "3506C1F5E49A5C45"
+			rewards: [
+				{
+					count: 6
+					id: "4F3B32F912FEEFCC"
+					item: "ae2:fluix_crystal"
+					type: "item"
+				}
+				{
+					id: "24F546B1597809AB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "62C10127F3535949"
+				item: "ae2:fluix_smart_dense_cable"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["26B562E670AC3C9E"]
+			description: ["Используется для размещения предметов в мир из МЭ Сети."]
+			hide: true
+			id: "79EAC6467E6786F6"
+			shape: "gear"
+			tasks: [{
+				id: "08CCD2B740704FD6"
+				item: "ae2:formation_plane"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["085E32C0DD4369EB"]
+			description: ["Ускоритель для механизмов."]
+			id: "498A2808EDDB750D"
+			tasks: [{
+				id: "27CE61C77EDB64A6"
+				item: "ae2:speed_card"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7CC06718D3FA2A29"]
+			id: "70A6360A36C111AF"
+			rewards: [
+				{
+					id: "14852E2D97A2C7B9"
+					item: "minecraft:diamond"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "711799611A43791F"
+					item: "minecraft:gold_ingot"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "3D7F7C61255BCFED"
+					item: "ae2:certus_quartz_crystal"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3B8A6FA0C870F6EE"
+					item: "ae2:printed_silicon"
+					type: "item"
+				}
+			]
+			subtitle: "В целом тут все построенно на них"
+			tasks: [
+				{
+					count: 2L
+					id: "0643654A9B5D2989"
+					item: "ae2:logic_processor"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "36870B6F6BC02BBD"
+					item: "ae2:calculation_processor"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "34818816C9C2F37C"
+					item: "ae2:engineering_processor"
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4D850221BDFD495E"]
+			description: [
+				"Использует энергию на производство предметов. Может быть улучшен установкой Ускоряющей карты."
+				"Ставить в упор к постовщику шаблонов."
+			]
+			hide: true
+			id: "7259D3BD8DE3F4BB"
+			rewards: [
+				{
+					count: 12
+					id: "5C4F076FDDAEE696"
+					item: "ae2:blank_pattern"
+					type: "item"
+				}
+				{
+					id: "7D4767BD09E40669"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "027A44C4398A8E9C"
+				item: "ae2:molecular_assembler"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["57A3D04A3C38B375"]
+			description: [
+				"Мод сложный, для тех кто никогда не играл с ним."
+				"Постарался максимально показать квестами куда двигаться."
+				"Советую не пренебрегать гайдами самого мода, там хоть на англ. но давольно понятно."
+				"Таже стоит посмотреть гайды на ют."
+			]
+			id: "63DAB856DDC1AA5C"
+			rewards: [
+				{
+					id: "60DBA0E27B368E24"
+					item: "ae2:certus_quartz_wrench"
+					type: "item"
+				}
+				{
+					id: "1D407ECB81A16219"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "663FE1015EBC349C"
+				title: "p.s"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+	]
+	title: "Трудное начало"
+}

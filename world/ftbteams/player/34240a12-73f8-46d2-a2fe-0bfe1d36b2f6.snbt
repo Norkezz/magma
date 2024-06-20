@@ -1,0 +1,17 @@
+{
+	id: "34240a12-73f8-46d2-a2fe-0bfe1d36b2f6"
+	type: "player"
+	player_name: "TrickyJew"
+	ranks: {
+		34240a12-73f8-46d2-a2fe-0bfe1d36b2f6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TrickyJew"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59ACFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

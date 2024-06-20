@@ -1,0 +1,1920 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "twilight_forest"
+	group: "0222F7831B6E22AB"
+	icon: "twilightforest:twilight_portal_miniature_structure"
+	id: "7602B8877DB34DDF"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "twilightforest:item/charm_of_life_1"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.3214285714285694d
+			y: -1.5805357142857233d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "twilightforest:item/charm_of_keeping_2"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/rainbow_oak_sapling"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7142857142857153d
+			y: 2.026607142857145d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/green_thorns_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/green_thorns_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 3.2408928571428604d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/green_thorns_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/green_thorns_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 1.7408928571428532d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/green_thorns_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.535714285714278d
+			y: 0.9551785714285685d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snowy_cloud"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5357142857142705d
+			y: 0.13374999999999915d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.499999999999986d
+			y: 4.240892857142846d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.249999999999993d
+			y: 4.240892857142846d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: 14.0d
+			width: 1.0d
+			x: 1.0714285714285623d
+			y: 4.062321428571423d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: 14.0d
+			width: 1.0d
+			x: 0.3928571428571317d
+			y: 3.883749999999992d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: 14.0d
+			width: 1.0d
+			x: -0.035714285714291805d
+			y: 3.776607142857138d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: -13.0d
+			width: 1.0d
+			x: -1.2142857142857224d
+			y: 3.776607142857131d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: -13.0d
+			width: 1.0d
+			x: -1.892857142857153d
+			y: 3.9194642857142767d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: -13.0d
+			width: 1.0d
+			x: -2.5714285714285836d
+			y: 4.062321428571423d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "twilightforest:block/snow_overhang"
+			rotation: -13.0d
+			width: 1.0d
+			x: -2.9642857142857224d
+			y: 4.133749999999985d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/red_mushroom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.285714285714299d
+			y: 2.776607142857138d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/red_mushroom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.107142857142861d
+			y: 3.276607142857131d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/red_mushroom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.750000000000007d
+			y: 3.7051785714285614d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [""]
+			id: "1EA0A508CC9A8D32"
+			rewards: [{
+				id: "39CE769F765AEC01"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "square"
+			size: 1.2d
+			subtitle: "Создайте портал в волшебные леса: Сумеречный лес"
+			tasks: [{
+				advancement: "twilightforest:root"
+				criterion: ""
+				icon: "twilightforest:twilight_portal_miniature_structure"
+				id: "51DFE14C8E646725"
+				title: "Twilight Forest"
+				type: "advancement"
+			}]
+			x: -8.4d
+			y: 0.6d
+		}
+		{
+			dependencies: ["642B722C1E25841A"]
+			description: ["Чтобы выполнить задание, вы должны дать ему по одному из 16 цветов шерсти. Вы можете сделать это, щелкнув по ним правой кнопкой мыши или бросив их ему в рот."]
+			id: "2D0EA4BA0402745B"
+			rewards: [
+				{
+					id: "5FDC5E2ED6DD07EC"
+					item: "minecraft:diamond"
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					id: "11D27E767890742C"
+					type: "xp"
+					xp: 300
+				}
+			]
+			shape: "rsquare"
+			subtitle: "Дайте этой Бешке то, чего ему не хватает."
+			tasks: [{
+				advancement: "twilightforest:quest_ram"
+				criterion: ""
+				icon: "twilightforest:quest_ram_trophy"
+				id: "12894EFD27EA23D7"
+				title: "Consummate Baaahs"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1EA0A508CC9A8D32"]
+			description: [""]
+			id: "1F0306B53D0A9DC2"
+			rewards: [{
+				id: "1EF4E2595E46E4F7"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "rsquare"
+			subtitle: "Поохотьтесь на местную дикую природу."
+			tasks: [{
+				advancement: "twilightforest:twilight_hunter"
+				criterion: ""
+				icon: "twilightforest:raven_feather"
+				id: "57514FC9F70F196D"
+				title: "The Silence of the Forest"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1EA0A508CC9A8D32"]
+			description: [""]
+			id: "4C536EDC0CCBADA0"
+			rewards: [
+				{
+					id: "5393939C204426A3"
+					item: "twilightforest:charm_of_keeping_1"
+					type: "item"
+				}
+				{
+					id: "5A1665907BD25AAC"
+					item: "twilightforest:charm_of_life_1"
+					type: "item"
+				}
+				{
+					id: "64A681461A53F14E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "rsquare"
+			subtitle: "Победите паука в лабиринте из живой изгороди."
+			tasks: [{
+				advancement: "twilightforest:hedge"
+				criterion: ""
+				icon: "twilightforest:hedge"
+				id: "3B53BA4AB48FA6B1"
+				title: "Bug Stomper"
+				type: "advancement"
+			}]
+			x: -8.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1EA0A508CC9A8D32"]
+			description: [""]
+			id: "32C62A68C71194DC"
+			rewards: [
+				{
+					count: 2
+					id: "359E00DEBA0E3D00"
+					item: "twilightforest:charm_of_life_1"
+					type: "item"
+				}
+				{
+					id: "4D2E49E2B14ABB54"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "rsquare"
+			subtitle: "Победите гоблина в красной шапочке на небольшом пологом холме."
+			tasks: [{
+				advancement: "twilightforest:hill1"
+				criterion: ""
+				icon: {
+					Count: 1b
+					id: "minecraft:iron_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "6FED4CFCF2809CA2"
+				title: "The Boots Are Mine!"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["32C62A68C71194DC"]
+			description: [""]
+			id: "57F6EF498C5CD3A9"
+			rewards: [{
+				id: "3C8F5750150E8626"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "rsquare"
+			subtitle: "Победите сапера в Красной шапочке на среднем пологом холме."
+			tasks: [{
+				advancement: "twilightforest:hill2"
+				criterion: ""
+				icon: {
+					Count: 1b
+					id: "twilightforest:ironwood_pickaxe"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:efficiency"
+							lvl: 1s
+						}]
+					}
+				}
+				id: "032D3CFD213D056D"
+				title: "What Was That Noise?"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["57F6EF498C5CD3A9"]
+			description: [""]
+			id: "11D3D7F428397BA4"
+			rewards: [{
+				id: "5FAD635D1DC1725C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "rsquare"
+			subtitle: "Победите Сумеречного призрака на большом пологом холме."
+			tasks: [{
+				advancement: "twilightforest:hill3"
+				criterion: ""
+				icon: "minecraft:glowstone_dust"
+				id: "1A489BF23FDFFCC9"
+				title: "I See Right Through You"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["642B722C1E25841A"]
+			description: [""]
+			id: "28B066EF50523118"
+			rewards: [
+				{
+					id: "7D7C84B389F8A60E"
+					item: "twilightforest:naga_scale"
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					id: "3685DA4FDDDB27E0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Убейте Нагу и добудьте её чешую, чтобы преодолеть магический барьер, окружающий башню Лича."
+			tasks: [{
+				advancement: "twilightforest:progress_naga"
+				criterion: ""
+				icon: "twilightforest:naga_courtyard_miniature_structure"
+				id: "790CE6DD97C8AFC0"
+				title: "Time To Even The Scales"
+				type: "advancement"
+			}]
+			x: -3.466071428571439d
+			y: 2.5837499999999807d
+		}
+		{
+			dependencies: ["28B066EF50523118"]
+			description: [""]
+			id: "563BB904D3372806"
+			rewards: [{
+				id: "4C56B58A206665B5"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Создайте нагрудную и ножную броню из чешуи Нага."
+			tasks: [
+				{
+					advancement: "twilightforest:naga_armors"
+					criterion: ""
+					icon: {
+						Count: 1b
+						id: "twilightforest:naga_chestplate"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:fire_protection"
+								lvl: 3s
+							}]
+						}
+					}
+					id: "0BE274FDF397457C"
+					title: "Naga Armorer"
+					type: "advancement"
+				}
+				{
+					id: "48B20A5D21365ADD"
+					item: {
+						Count: 1b
+						id: "twilightforest:naga_leggings"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:protection"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.625d
+			y: 1.875d
+		}
+		{
+			dependencies: ["28B066EF50523118"]
+			description: ["Что бы разрушить его щит, отбивай его атаки в него."]
+			id: "370FA783451DD289"
+			rewards: [
+				{
+					count: 2
+					id: "16721B103233CE12"
+					item: "born_in_chaos_v1:death_totem"
+					type: "item"
+				}
+				{
+					id: "6F747BF751202A98"
+					type: "xp"
+					xp: 500
+				}
+			]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Убейте Сумеречного Лича на вершине его башни и достаньте скипетр."
+			tasks: [{
+				advancement: "twilightforest:progress_lich"
+				criterion: ""
+				icon: "twilightforest:lich_tower_miniature_structure"
+				id: "71AD4575EF13BF1A"
+				title: "Bring Out Your Dead"
+				type: "advancement"
+			}]
+			title: "Они должны быть мертвы"
+			x: -3.4499999999999997d
+			y: 4.6d
+		}
+		{
+			dependencies: ["6E690919075FF337"]
+			description: [""]
+			id: "38648C77B19B8B27"
+			rewards: [{
+				id: "1154C306687CBC7F"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Тушеное мясо с грибами приятно согреет вас, настолько, что вы почувствуете, что достаточно акклиматизировались, чтобы отправиться в Огненное болото."
+			tasks: [{
+				advancement: "twilightforest:progress_labyrinth"
+				criterion: ""
+				icon: "twilightforest:meef_stroganoff"
+				id: "76CE72AED339B8D5"
+				title: "Mighty Stroganoff"
+				type: "advancement"
+			}]
+			x: 0.6053571428571303d
+			y: 2.833749999999988d
+		}
+		{
+			dependencies: ["38648C77B19B8B27"]
+			description: [""]
+			id: "4CCCC30C20741DCA"
+			rewards: [
+				{
+					count: 5
+					id: "33AC31DEA5DA951C"
+					item: "twilightforest:fiery_blood"
+					type: "item"
+				}
+				{
+					id: "03A66E5F6880FA3D"
+					type: "xp"
+					xp: 400
+				}
+				{
+					count: 3
+					id: "6F75E89D0EF2C670"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Победите могущественную Гидру и укрепите свои силы."
+			tasks: [{
+				advancement: "twilightforest:progress_hydra"
+				criterion: ""
+				icon: "twilightforest:hydra_trophy"
+				id: "7D8F39E08684438A"
+				title: "Hydra Slayer"
+				type: "advancement"
+			}]
+			x: 1.7249999999999999d
+			y: 2.8749999999999996d
+		}
+		{
+			dependencies: ["6E690919075FF337"]
+			description: ["&7Reward: 1x Loot Bag + 1 Random Reward from a set Loot Table."]
+			id: "15559CD9CE0C1587"
+			rewards: [
+				{
+					id: "395ADBDD0C37641B"
+					item: "lootbagmod:lootbag"
+					type: "item"
+				}
+				{
+					icon: {
+						Count: 1b
+						id: "botania:dice"
+						tag: { }
+					}
+					id: "1036FEB87BC434B3"
+					type: "random"
+				}
+			]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Найдите кирку Разрушителя лабиринтов в секретном хранилище лабиринта."
+			tasks: [{
+				advancement: "twilightforest:mazebreaker"
+				criterion: ""
+				icon: {
+					Count: 1b
+					id: "twilightforest:mazebreaker_pickaxe"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "minecraft:efficiency"
+								lvl: 4s
+							}
+							{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}
+							{
+								id: "minecraft:fortune"
+								lvl: 2s
+							}
+						]
+					}
+				}
+				id: "751A6B662E0D24A9"
+				title: "Breaking the Maze"
+				type: "advancement"
+			}]
+			x: -0.375d
+			y: 1.875d
+		}
+		{
+			dependencies: ["4CCCC30C20741DCA"]
+			description: [""]
+			hide: false
+			id: "18C9ACBB4E5B98CC"
+			rewards: [{
+				id: "2DE818B47202B9D6"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "gear"
+			subtitle: "Перекусите каким-нибудь тушеным мясом Гидры, когда будите голодны."
+			tasks: [{
+				advancement: "twilightforest:hydra_chop"
+				criterion: ""
+				icon: "twilightforest:hydra_chop"
+				id: "100C980AEF577351"
+				title: "Hydra Chop, Baby!"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3706AFD7D5DD9D89"]
+			description: [""]
+			id: "357AE91A0DA539AF"
+			rewards: [
+				{
+					count: 32
+					id: "11E0C0BFA08AA78A"
+					item: "minecraft:snow_block"
+					type: "item"
+				}
+				{
+					id: "09679C250CEF2453"
+					type: "xp"
+					xp: 350
+				}
+			]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Победите Снежную королеву на вершине дворца Авроры."
+			tasks: [{
+				advancement: "twilightforest:progress_glacier"
+				criterion: ""
+				icon: "twilightforest:snow_queen_trophy"
+				id: "073378E2414FF2F0"
+				title: "Clear Skies"
+				type: "advancement"
+			}]
+			x: 1.7249999999999999d
+			y: 4.6d
+		}
+		{
+			dependencies: ["370FA783451DD289"]
+			description: [""]
+			id: "34B0F027714C44AE"
+			rewards: [{
+				id: "381D69166C97AD43"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Заявите о своем титуле, установив трофей на пьедестал в руинах темного леса."
+			tasks: [{
+				advancement: "twilightforest:progress_trophy_pedestal"
+				criterion: ""
+				icon: "twilightforest:trophy_pedestal"
+				id: "459F99C868022A1C"
+				title: "Trophied Champion"
+				type: "advancement"
+			}]
+			x: -0.575d
+			y: 5.175d
+		}
+		{
+			dependencies: [
+				"4CCCC30C20741DCA"
+				"357AE91A0DA539AF"
+				"5BE122CF0F07859F"
+			]
+			description: [""]
+			id: "1D3A89737553342F"
+			rewards: [{
+				id: "287527EEDF55D01F"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Убейте Гидру, Ур-Гаст и Снежную королеву, чтобы избавиться от кислотных дождей и набраться смелости для Высокогорья."
+			tasks: [{
+				advancement: "twilightforest:progress_merge"
+				criterion: ""
+				icon: "twilightforest:uberous_soil"
+				id: "0A48D2EFAF6D72EA"
+				title: "Ultimate Showdown"
+				type: "advancement"
+			}]
+			x: 4.0249999999999995d
+			y: 4.6d
+		}
+		{
+			dependencies: ["34B0F027714C44AE"]
+			description: [""]
+			id: "6AC995FD4A3A9368"
+			rewards: [
+				{
+					id: "5882E5790F4FBB4C"
+					item: {
+						Count: 1b
+						id: "twilightforest:knightmetal_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "351505C8124787B6"
+					type: "xp"
+					xp: 200
+				}
+			]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Посетите беспокойных призраков в Гробнице рыцарей, и устройства карминитовых башен будут повиноваться вам."
+			tasks: [{
+				advancement: "twilightforest:progress_knights"
+				criterion: ""
+				icon: "twilightforest:knight_phantom_trophy"
+				id: "27EFC322F14C987A"
+				title: "Carminite Acclimation"
+				type: "advancement"
+			}]
+			x: -0.575d
+			y: 6.324999999999999d
+		}
+		{
+			dependencies: ["3E2EAF4404EFBD75"]
+			description: [""]
+			id: "49AC1498190F2CE7"
+			rewards: [
+				{
+					id: "1D05525979306215"
+					item: "twilightforest:charm_of_keeping_2"
+					type: "item"
+				}
+				{
+					id: "5FC61B2B89D02BFF"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "gear"
+			size: 1.0d
+			subtitle: "Найдите лампу из золы в пещерах троллей, и вы сможете сжечь колючие заграждения."
+			tasks: [{
+				advancement: "twilightforest:progress_troll"
+				criterion: ""
+				icon: {
+					Count: 1b
+					id: "twilightforest:lamp_of_cinders"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "307CCF5AACAD5C26"
+				title: "I Wish For More Burning"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C9EAAF9859D1238"]
+			description: [""]
+			id: "13CE8C38632521A6"
+			optional: true
+			rewards: [{
+				id: "7209E955ADE9C83B"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "gear"
+			size: 0.8d
+			subtitle: "Создайте полный комплект огненной брони."
+			tasks: [
+				{
+					id: "47E46C440EAB3247"
+					item: {
+						Count: 1b
+						id: "twilightforest:fiery_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0CC6F7F9DFAADC20"
+					item: {
+						Count: 1b
+						id: "twilightforest:fiery_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C2AAA7B732CFF6D"
+					item: {
+						Count: 1b
+						id: "twilightforest:fiery_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F693C9B19E59D94"
+					item: {
+						Count: 1b
+						id: "twilightforest:fiery_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Fiery Armorer"
+			x: 1.6767857142857068d
+			y: 8.333749999999974d
+		}
+		{
+			dependencies: ["1F0306B53D0A9DC2"]
+			description: [""]
+			id: "2B491426515C10C2"
+			rewards: [{
+				count: 8
+				id: "48591DC587350A8F"
+				item: "minecraft:paper"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Создайте фокус магической карты с помощью пера Ворона, пыли из светящегося камня и факелонта."
+			tasks: [{
+				id: "14068DDB57217DC9"
+				item: "twilightforest:magic_map_focus"
+				type: "item"
+			}]
+			title: "With Fire It Writes"
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6AC995FD4A3A9368"]
+			description: [""]
+			id: "4785B332C3ED76D4"
+			optional: true
+			rewards: [
+				{
+					id: "385F794BE29021A7"
+					item: "twilightforest:charm_of_life_2"
+					type: "item"
+				}
+				{
+					id: "355FF51319F0BDDE"
+					item: "twilightforest:charm_of_keeping_3"
+					type: "item"
+				}
+				{
+					id: "2CF644EC8CC00CB3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Собре полный комплект призрачной брони."
+			tasks: [
+				{
+					id: "1EB757F3228F5CE3"
+					item: {
+						Count: 1b
+						id: "twilightforest:phantom_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38BE80CED8AAD325"
+					item: {
+						Count: 1b
+						id: "twilightforest:phantom_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Knight Armorer"
+			x: -0.21607142857143202d
+			y: 7.262321428571418d
+		}
+		{
+			dependencies: ["3706AFD7D5DD9D89"]
+			description: [""]
+			id: "4B86E0B9A99D22A6"
+			optional: true
+			rewards: [{
+				id: "1BACC63B2BE2DEC9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Craft a full set of Yeti Armor."
+			tasks: [
+				{
+					id: "3ECE5450831329B5"
+					item: {
+						Count: 1b
+						id: "twilightforest:yeti_helmet"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:protection"
+								lvl: 2s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5781AF68DAFCE127"
+					item: {
+						Count: 1b
+						id: "twilightforest:yeti_chestplate"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:protection"
+								lvl: 2s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06A7FBDDFB9E81C9"
+					item: {
+						Count: 1b
+						id: "twilightforest:yeti_leggings"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:protection"
+								lvl: 2s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "56EE1F8ADD3EF05D"
+					item: {
+						Count: 1b
+						id: "twilightforest:yeti_boots"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "minecraft:protection"
+									lvl: 2s
+								}
+								{
+									id: "minecraft:feather_falling"
+									lvl: 4s
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Yeti Armorer"
+			x: 0.75d
+			y: 3.75d
+		}
+		{
+			dependencies: ["6AC995FD4A3A9368"]
+			description: [""]
+			id: "6F70CEA4288827DC"
+			optional: true
+			rewards: [{
+				id: "2F57B15F23DD2EF4"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Я стану рыцарем круглого стола! Ну... квадратного.."
+			tasks: [
+				{
+					id: "52592510CFE92974"
+					item: {
+						Count: 1b
+						id: "twilightforest:knightmetal_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "370B59EEF2929A20"
+					item: {
+						Count: 1b
+						id: "twilightforest:knightmetal_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "022483B0466C3E76"
+					item: {
+						Count: 1b
+						id: "twilightforest:knightmetal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FBB8D4ED29181C5"
+					item: {
+						Count: 1b
+						id: "twilightforest:knightmetal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Knightmetal Armorer"
+			x: -1.125d
+			y: 7.125d
+		}
+		{
+			dependencies: ["0F11B1B190F593C5"]
+			description: [""]
+			id: "746FDE160FB04761"
+			optional: true
+			shape: "octagon"
+			subtitle: "Нам нужен железный дровосек."
+			tasks: [{
+				id: "257ADA4C0B67AE7E"
+				item: "twilightforest:ironwood_ingot"
+				title: "Ironwood"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["746FDE160FB04761"]
+			description: [""]
+			id: "535083A062079B94"
+			optional: true
+			rewards: [
+				{
+					id: "6F6F490C1DD8ABA7"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 6
+					id: "33BF6C98699EFF15"
+					item: "twilightforest:ironwood_ingot"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Создайте полный комплект доспехов из железного дерева."
+			tasks: [
+				{
+					id: "063FA7449EA64945"
+					item: {
+						Count: 1b
+						id: "twilightforest:ironwood_helmet"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:aqua_affinity"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E7693196A60ECFB"
+					item: {
+						Count: 1b
+						id: "twilightforest:ironwood_chestplate"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:protection"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D3FA6D43912231E"
+					item: {
+						Count: 1b
+						id: "twilightforest:ironwood_leggings"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:protection"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "07CA0BA51D75E57E"
+					item: {
+						Count: 1b
+						id: "twilightforest:ironwood_boots"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:feather_falling"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ironwood Armorer"
+			x: -6.537499999999994d
+			y: -3.507500000000004d
+		}
+		{
+			dependencies: ["746FDE160FB04761"]
+			description: [""]
+			id: "2FCE8CD3C451A02B"
+			optional: true
+			rewards: [{
+				id: "1B580FEFF1E12961"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Создайте полный набор инструментов из железного дерева."
+			tasks: [
+				{
+					id: "10E7C1346D755B62"
+					item: {
+						Count: 1b
+						id: "twilightforest:ironwood_sword"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:knockback"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "569FAF3778391D83"
+					item: {
+						Count: 1b
+						id: "twilightforest:ironwood_pickaxe"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:efficiency"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "16619BEDF3B5B088"
+					item: {
+						Count: 1b
+						id: "twilightforest:ironwood_shovel"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E2A96A24CD45A84"
+					item: {
+						Count: 1b
+						id: "twilightforest:ironwood_axe"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:fortune"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ironwood Tools"
+			x: -6.0d
+			y: -3.375d
+		}
+		{
+			dependencies: ["6AC995FD4A3A9368"]
+			description: [""]
+			id: "292A27B819399A7C"
+			optional: true
+			rewards: [{
+				id: "15B144FEB5EA9E5F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "gear"
+			size: 0.55d
+			subtitle: "Создай оружие рыцарей."
+			tasks: [
+				{
+					id: "5D196DA9F691998E"
+					item: {
+						Count: 1b
+						id: "twilightforest:knightmetal_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0CB356B9B1AA27A0"
+					item: {
+						Count: 1b
+						id: "twilightforest:knightmetal_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "371EB524188D7804"
+					item: {
+						Count: 1b
+						id: "twilightforest:knightmetal_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -0.716071428571432d
+			y: 7.405178571428557d
+		}
+		{
+			dependencies: ["6C9EAAF9859D1238"]
+			description: [""]
+			id: "01DBFE02921D642D"
+			optional: true
+			rewards: [{
+				id: "5BBCD8C283B016A2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Создайте полный набор огненных инструментов."
+			tasks: [
+				{
+					id: "64ECF1E67CA5704C"
+					item: {
+						Count: 1b
+						id: "twilightforest:fiery_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "236BB562E31BAB65"
+					item: {
+						Count: 1b
+						id: "twilightforest:fiery_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Fiery Tools"
+			x: 2.4624999999999986d
+			y: 8.15517857142855d
+		}
+		{
+			dependencies: ["606874626B32DFCA"]
+			description: [""]
+			id: "6C9EAAF9859D1238"
+			optional: true
+			rewards: [{
+				id: "352FCDACF28179B8"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Создайте огненный слиток."
+			tasks: [{
+				id: "3CC873B1782C64C5"
+				item: "twilightforest:fiery_ingot"
+				type: "item"
+			}]
+			x: 1.9982142857142762d
+			y: 7.833749999999988d
+		}
+		{
+			dependencies: ["57F6EF498C5CD3A9"]
+			description: [""]
+			id: "77EADB71FD30ED86"
+			optional: true
+			rewards: [{
+				id: "3A349209CABDFCB3"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "gear"
+			size: 0.85d
+			subtitle: "Найдите рудный магнит."
+			tasks: [{
+				id: "0584875833945073"
+				item: {
+					Count: 1b
+					id: "twilightforest:ore_magnet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.075d
+			y: 2.975d
+		}
+		{
+			dependencies: ["2B491426515C10C2"]
+			id: "642B722C1E25841A"
+			rewards: [{
+				id: "756A7CB02A26C047"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			subtitle: "Создайте волшебную карту."
+			tasks: [{
+				id: "4DB59A5D6CE0879A"
+				item: "twilightforest:magic_map"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["370FA783451DD289"]
+			id: "3E123257FBC690CD"
+			rewards: [{
+				id: "0F0EEB2AE112531B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			subtitle: "Призывает зомби"
+			tasks: [{
+				id: "00253CFE5250132D"
+				item: {
+					Count: 1b
+					id: "twilightforest:zombie_scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.93035714285714d
+			y: 5.992499999999993d
+		}
+		{
+			dependencies: ["370FA783451DD289"]
+			id: "36920C85A14B7387"
+			rewards: [{
+				id: "7514456611F3F7FD"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "11CEC3B94FD83E19"
+				item: {
+					Count: 1b
+					id: "twilightforest:lifedrain_scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.216071428571425d
+			y: 6.1353571428571385d
+		}
+		{
+			dependencies: ["370FA783451DD289"]
+			id: "7B8D8AF7664A6C51"
+			rewards: [{
+				id: "3C0DD6E92A73469C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "5FDB669C4808695A"
+				item: {
+					Count: 1b
+					id: "twilightforest:twilight_scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1EA0A508CC9A8D32"]
+			id: "0F11B1B190F593C5"
+			rewards: [{
+				id: "6CD3A2B5A6A54D13"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A5E5B9F943423C8"
+				item: "twilightforest:raw_ironwood"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["370FA783451DD289"]
+			icon: "twilightforest:alpha_yeti_trophy"
+			id: "3706AFD7D5DD9D89"
+			rewards: [{
+				id: "48AA7F284A6CB5B7"
+				type: "xp"
+				xp: 250
+			}]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Мне нужна твоя одежда и мотоцикл, ладно хотя бы шерсть..."
+			tasks: [{
+				entity: "twilightforest:alpha_yeti"
+				icon: "twilightforest:alpha_yeti_trophy"
+				id: "5EFF9021F5AF7014"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.575d
+			y: 4.0249999999999995d
+		}
+		{
+			dependencies: ["370FA783451DD289"]
+			id: "6E690919075FF337"
+			rewards: [
+				{
+					id: "12141AC569F3CD38"
+					item: "minecraft:mushroom_stew"
+					type: "item"
+				}
+				{
+					id: "38A7D16D579C1ED6"
+					type: "xp"
+					xp: 200
+				}
+			]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Это как минотавр, только гриботавр."
+			tasks: [{
+				entity: "twilightforest:minoshroom"
+				icon: "twilightforest:minoshroom_trophy"
+				id: "3934722F403E94A9"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.575d
+			y: 2.8749999999999996d
+		}
+		{
+			dependencies: ["5BE122CF0F07859F"]
+			id: "606874626B32DFCA"
+			rewards: [
+				{
+					count: 4
+					id: "6F0706661002C716"
+					item: "minecraft:iron_ingot"
+					random_bonus: 19
+					type: "item"
+				}
+				{
+					id: "2759C8EC66B2BA32"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Прикоснись к огненно-красным слезам Ур-Гаста."
+			tasks: [
+				{
+					count: 2L
+					id: "6C6BBBEE1D091476"
+					item: "twilightforest:fiery_tears"
+					type: "item"
+				}
+				{
+					id: "785F5F3D1F58F43A"
+					item: "twilightforest:fiery_blood"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6AC995FD4A3A9368"]
+			icon: "twilightforest:ur_ghast_trophy"
+			id: "5BE122CF0F07859F"
+			rewards: [
+				{
+					count: 5
+					id: "7D6661EF4555774D"
+					item: "minecraft:ghast_tear"
+					type: "item"
+				}
+				{
+					count: 15
+					id: "2D478FB1FBE2F296"
+					item: "twilightforest:experiment_115"
+					type: "item"
+				}
+				{
+					id: "6772ED2465FCCEFD"
+					type: "xp"
+					xp: 350
+				}
+			]
+			shape: "hexagon"
+			size: 1.15d
+			subtitle: "Отправь его обратно в Ад."
+			tasks: [{
+				entity: "twilightforest:ur_ghast"
+				icon: "twilightforest:ur_ghast_trophy"
+				id: "548E27804AD12513"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.7249999999999999d
+			y: 6.324999999999999d
+		}
+		{
+			dependencies: ["1D3A89737553342F"]
+			id: "6D41C9E9691339DE"
+			rewards: [
+				{
+					id: "692EE2DB25E2CAB8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4DD30B0ACC6AA320"
+					item: "twilightforest:firefly"
+					type: "item"
+				}
+			]
+			subtitle: "Отбери у троллей бобы"
+			tasks: [{
+				entity: "twilightforest:troll"
+				id: "313A8D1AFE00BB24"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Ты злой"
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6D41C9E9691339DE"]
+			description: ["Как сломать гиганский обсидиан? Там есть обычный обсидиан, наверное надо поискать что то в нем."]
+			id: "1B371E334A382ED0"
+			rewards: [{
+				id: "4B2BEFC512FFFA65"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Бобы"
+			tasks: [{
+				id: "709C62E1704F22A7"
+				item: "twilightforest:magic_beans"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["49AC1498190F2CE7"]
+			description: ["На этом пока все. Ждем продолжения.)"]
+			id: "060BF7BE281DE798"
+			rewards: [{
+				id: "4A1610D603996094"
+				type: "xp"
+				xp: 10000
+			}]
+			tasks: [{
+				advancement: "twilightforest:progression_end"
+				criterion: ""
+				id: "074273D63211C8DF"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1EA0A508CC9A8D32"]
+			description: ["Главное свойство и задача — вернуть игроку то, что было у него в руках на момент смерти и броню. Всё остальное, что было в инвентаре, выбрасывается."]
+			hide_dependency_lines: true
+			id: "66D04948D2F1D2D9"
+			rewards: [
+				{
+					id: "3841FDF6D217BD5F"
+					item: "twilightforest:charm_of_keeping_1"
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "06D325C723F80F33"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "octagon"
+			tasks: [{
+				id: "0E17FBC364EAB221"
+				item: "twilightforest:charm_of_keeping_1"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["66D04948D2F1D2D9"]
+			description: ["Его главное свойство и задача — вернуть игроку то, что было у него на «поясе» в момент смерти и броню. Всё остальное, что было в инвентаре, выбрасывается."]
+			id: "46DDA71CCCE49844"
+			rewards: [
+				{
+					id: "0DAF2029ADC88946"
+					item: "twilightforest:charm_of_keeping_2"
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "7D59E4B83C8F3332"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "octagon"
+			tasks: [{
+				id: "53AA651121569737"
+				item: "twilightforest:charm_of_keeping_2"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["46DDA71CCCE49844"]
+			description: ["Его главное свойство и задача — вернуть абсолютно все вещи из инвентаря, которые были у игрока на момент смерти."]
+			id: "47A566D7073EC3AD"
+			rewards: [
+				{
+					id: "4E80F286C814AF01"
+					item: "twilightforest:moonworm"
+					type: "item"
+				}
+				{
+					id: "2CA600A1F75E51B9"
+					type: "xp"
+					xp: 200
+				}
+			]
+			shape: "octagon"
+			tasks: [{
+				id: "3A6F698DEC819E65"
+				item: "twilightforest:charm_of_keeping_3"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1EA0A508CC9A8D32"]
+			description: ["Амулет жизни I восстановит 8 единиц здоровья и обеспечит регенерацию в течение следующих 10 секунд, спасает от урона от падения с любой высоты."]
+			hide_dependency_lines: true
+			hide_details_until_startable: false
+			id: "5181168EF79A4345"
+			rewards: [
+				{
+					id: "7676F0850643877A"
+					item: "twilightforest:charm_of_life_1"
+					type: "item"
+				}
+				{
+					id: "5D5F882849669823"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "octagon"
+			tasks: [{
+				id: "3BE82BF6A861C599"
+				item: "twilightforest:charm_of_life_1"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5181168EF79A4345"]
+			description: [
+				"Амулет жизни II восстановит полностью всё здоровье игрока и наложит регенерацию в течение 30 секунд, и даст следующие эффекты: «Сопротивление урону», «Огнестойкость», «Восстановление IV» — все они так же действуют тридцать секунд. "
+				"Не лишним будет отметить, что золотой амулет жизни не встречается нигде; его возможно лишь скрафтить."
+			]
+			id: "1645D44389C5D05F"
+			rewards: [{
+				id: "4E01006158F31793"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "067CF792F4BFC817"
+				item: "twilightforest:charm_of_life_2"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1B371E334A382ED0"]
+			description: ["Посади бобы под облоком с гигантами и отберу большую кирку!"]
+			id: "3E2EAF4404EFBD75"
+			rewards: [
+				{
+					id: "06BA2D2F2D4976FA"
+					item: "twilightforest:giant_log"
+					type: "item"
+				}
+				{
+					id: "770AE1C57FBD6791"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0136E51467ADB347"
+				item: {
+					Count: 1b
+					id: "twilightforest:giant_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+	]
+	title: "Немного сумеречного леса"
+}

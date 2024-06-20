@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718616093247
+  login: 1718615981494
+money: '0'
+last-account-name: TrickyJew
+logoutlocation:
+  world: 6061177e-394d-4a34-98a6-648a59cda16d
+  world-name: world
+  x: 81.21959474559843
+  y: 101.00802860750163
+  z: 119.78568744177957
+  yaw: 25.504058837890625
+  pitch: 41.700042724609375

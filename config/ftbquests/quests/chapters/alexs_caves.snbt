@@ -1,0 +1,1567 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "alexs_caves"
+	group: "0222F7831B6E22AB"
+	icon: "alexscaves:spelunkery_table"
+	id: "6705AD44F9BCE313"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 9.0d
+			hover: [ ]
+			image: "alexscaves:textures/misc/advancement/icon/magnetic_caves.png"
+			rotation: 140.0d
+			width: 9.0d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.5d
+			hover: [ ]
+			image: "alexscaves:block/potted_curly_fern"
+			rotation: 0.0d
+			width: 2.5d
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 7.0d
+			hover: [ ]
+			image: "alexscaves:item/tough_hide"
+			rotation: 90.0d
+			width: 7.0d
+			x: -10.017857142857125d
+			y: 0.1428571428571317d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 7.0d
+			hover: [ ]
+			image: "alexscaves:textures/mob_effect/bubbled.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/acid_bubble.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "alexscaves:textures/mob_effect/darkness_incarnate.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 5.08928571428568d
+			y: 6.571428571428598d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/void_eye_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/void_eye_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.565476190476147d
+			y: 8.86309523809527d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/void_eye_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/acid_bubble_pop_4.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.6250000000000426d
+			y: 8.625000000000021d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/acid_bubble_pop_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1488095238095681d
+			y: 7.482142857142875d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/acid_bubble_pop_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.101190476190524d
+			y: 6.625000000000014d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/bio_pop_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/bio_pop_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/bio_pop_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.422619047619001d
+			y: -3.327380952380942d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/bio_pop_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/bio_pop_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/bio_pop_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/particle/bio_pop_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.232142857142804d
+			y: -4.136904761904752d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:textures/mob_effect/irradiated.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.8630952380952834d
+			y: 6.2440476190476275d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "alexscaves:item/totem_of_possession_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.613095238095198d
+			y: 7.053571428571438d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "546D50C1845444E7"
+			rewards: [
+				{
+					count: 2
+					id: "099543A12B3E5F16"
+					item: {
+						Count: 1b
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:magnetic_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6ABFD2B1ACCA179E"
+					item: {
+						Count: 1b
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:primordial_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7920ECCFD1E30532"
+					item: {
+						Count: 1b
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:forlorn_hollows"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3538CF00D5F01BDC"
+					item: {
+						Count: 1b
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:abyssal_chasm"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "570FEF6428A9DABF"
+					item: {
+						Count: 1b
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:toxic_caves"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Я надеюсь ты поймешь как это делать."
+			tasks: [{
+				id: "116807B6B87D1F39"
+				item: "alexscaves:spelunkery_table"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["546D50C1845444E7"]
+			description: ["Яркий, зеленый и обширный пещерный биом, освещаемый светящимся янтарем на потолке, населен многочисленными доисторическими существами, такими как динозавры гроттоцератопс и треморзавр."]
+			id: "5C94088EF033B604"
+			rewards: [
+				{
+					count: 8
+					id: "3812827620CC13FD"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					id: "0C07D454611D8A71"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "514397B91ED80180"
+				item: {
+					Count: 1b
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:primordial_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["546D50C1845444E7"]
+			id: "7E4C85B5CAA4E92C"
+			rewards: [
+				{
+					count: 8
+					id: "7872CDDD6B0F1DB0"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					id: "7A19B31D6916A891"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Не ходи туда в железной броне!"
+			tasks: [{
+				id: "0C08FE292E4AB88C"
+				item: {
+					Count: 1b
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:magnetic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["546D50C1845444E7"]
+			id: "2D6E0CCCA92E732C"
+			rewards: [
+				{
+					count: 8
+					id: "75971FDC8CEB743F"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					id: "4E49224AA21E84F5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "1B782892A7C61E30"
+				item: {
+					Count: 1b
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:abyssal_chasm"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["546D50C1845444E7"]
+			id: "71F0ABC81AB3B087"
+			rewards: [
+				{
+					count: 8
+					id: "69EA468F17872FE2"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					id: "5DAE4DF1F4033E2E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "16D572F2BBEE55F6"
+				item: {
+					Count: 1b
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:forlorn_hollows"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["546D50C1845444E7"]
+			id: "6CD6C651F542787B"
+			rewards: [
+				{
+					count: 8
+					id: "454A9A1CD879CB74"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					id: "20B5A0DCE0C8F79B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "1B0D969D29125B6F"
+				item: {
+					Count: 1b
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:toxic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["546D50C1845444E7"]
+			description: ["Внутриигровое руководство по пещерам. Хотя она и не является всеобъемлющей, она должна предоставить вам достаточно информации о каждом пещерном биоме, чтобы вы чувствовали себя комфортно, исследуя и используя их механику, предметы, блоки и мобов."]
+			id: "4419E872C7DCC771"
+			rewards: [{
+				id: "3DCBA1D97DFDC6B0"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "35D3DA3EBD470242"
+				item: "alexscaves:cave_book"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["54B8DF629C3F4F67"]
+			description: [
+				"Любимая еда динозавров."
+				"Да, их можно приручать.)"
+			]
+			id: "1FE94A6308492B92"
+			tasks: [{
+				id: "7AC9C54EE1EBA1B7"
+				item: "alexscaves:tree_star"
+				type: "item"
+			}]
+			x: -6.803571428571409d
+			y: -1.5357142857142847d
+		}
+		{
+			dependencies: ["54B8DF629C3F4F67"]
+			description: [
+				"Забыл или потерял оружие?"
+				"Ну сделай хоть это."
+			]
+			id: "22457935F1F6C16B"
+			tasks: [{
+				id: "7C12F3FAF0FFCD86"
+				item: "alexscaves:limestone_spear"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54B8DF629C3F4F67"]
+			description: ["Одна янтарная диковинка с вероятностью 1,5% выпадет из янтаря, добытого киркой. Заклинание удачи может увеличить шанс его получения."]
+			id: "577C1FC601B91430"
+			tasks: [{
+				id: "7E574BD3CC5BFC7F"
+				item: "alexscaves:amber_curiosity"
+				type: "item"
+			}]
+			x: -8.892857142857153d
+			y: -0.7678571428571317d
+		}
+		{
+			dependencies: ["22457935F1F6C16B"]
+			id: "341D832A8548B56B"
+			tasks: [{
+				id: "558A39D5EA853400"
+				item: "alexscaves:dinosaur_nugget"
+				type: "item"
+			}]
+			x: -10.874999999999993d
+			y: 1.0714285714285694d
+		}
+		{
+			dependencies: ["22457935F1F6C16B"]
+			id: "1B21294DBF35C5CF"
+			rewards: [
+				{
+					id: "3AF639FC977BA78F"
+					item: "minecraft:heart_pottery_sherd"
+					type: "item"
+				}
+				{
+					id: "21E0CE44D677C182"
+					type: "xp"
+					xp: 20
+				}
+			]
+			subtitle: "Можно и покушать вкусненько."
+			tasks: [{
+				id: "33E131632BC74799"
+				item: "alexscaves:seething_stew"
+				type: "item"
+			}]
+			x: -12.232142857142847d
+			y: 0.3571428571428612d
+		}
+		{
+			dependencies: ["22457935F1F6C16B"]
+			icon: {
+				Count: 1b
+				id: "alexscaves:primordial_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "71DD5E93A855DD86"
+			rewards: [
+				{
+					id: "0FC6836B5BB86D28"
+					item: "minecraft:diamond"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "63B820C7EA19635C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			subtitle: "Пора вливаться в антураж."
+			tasks: [
+				{
+					id: "7AB0C4F40510C71D"
+					item: {
+						Count: 1b
+						id: "alexscaves:primordial_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32DD3F4C009FD5ED"
+					item: {
+						Count: 1b
+						id: "alexscaves:primordial_tunic"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73A966E7FFBF74DC"
+					item: {
+						Count: 1b
+						id: "alexscaves:primordial_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -11.446428571428562d
+			y: -1.392857142857146d
+		}
+		{
+			dependencies: ["577C1FC601B91430"]
+			id: "5E8033FA33632736"
+			tasks: [{
+				id: "0D0B29E364186208"
+				item: "alexscaves:amber_monolith"
+				type: "item"
+			}]
+			x: -8.053571428571423d
+			y: -1.857142857142854d
+		}
+		{
+			dependencies: ["22457935F1F6C16B"]
+			description: [
+				"Большой, агрессивный котик."
+				"Его так же можно пиручить.)"
+			]
+			icon: "alexscaves:dinosaur_pottery_sherd"
+			id: "7D1BBA831AE88206"
+			rewards: [
+				{
+					id: "0F26BAD7D2AD45BC"
+					item: "minecraft:diamond"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2EE360E0B9974099"
+					item: "minecraft:emerald"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "61ABF7AAAC3AB5CE"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				entity: "alexscaves:tremorsaurus"
+				icon: "alexsmobs:bone_serpent_tooth"
+				id: "675B02A300D7822B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.410714285714278d
+			y: 0.7857142857142847d
+		}
+		{
+			dependencies: ["5C94088EF033B604"]
+			id: "54B8DF629C3F4F67"
+			rewards: [{
+				id: "7312B4504BE2BECC"
+				type: "xp"
+				xp: 500
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "alexscaves:alexscaves/discover_primordial_caves"
+				criterion: ""
+				id: "1649753D6E6E4EA8"
+				type: "advancement"
+			}]
+			x: -6.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22457935F1F6C16B"]
+			id: "5E0C695515B3156A"
+			rewards: [
+				{
+					count: 2
+					id: "5BD4DDA6D9754007"
+					item: "alexscaves:serene_salad"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "4150E31CB7C17CD6"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "Медленное оружие, оглушающее цели."
+			tasks: [{
+				id: "2A2A1480918EDA4A"
+				item: {
+					Count: 1b
+					id: "alexscaves:primitive_club"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.553571428571423d
+			y: 1.2142857142857153d
+		}
+		{
+			dependencies: ["5E0C695515B3156A"]
+			id: "428E1CB87982C5C5"
+			rewards: [
+				{
+					id: "1849824403084156"
+					item: "alexscaves:cave_painting_footprint"
+					type: "item"
+				}
+				{
+					id: "0D502D999383051D"
+					type: "xp"
+					xp: 500
+				}
+			]
+			subtitle: "Приручитие сотрясозавра, оглушая его и еормя салатом спокойствия."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/tame_tremorsaurus"
+				criterion: ""
+				id: "583ECF35A9D15C67"
+				type: "advancement"
+			}]
+			x: -7.946428571428562d
+			y: 2.0714285714285694d
+		}
+		{
+			dependencies: ["341D832A8548B56B"]
+			id: "026A398EE9165A87"
+			rewards: [
+				{
+					id: "7F7054D11AFC5043"
+					item: "minecraft:emerald"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "19ADCADBEAF37C4D"
+					type: "xp"
+					xp: 200
+				}
+			]
+			subtitle: "Приручите велоцараптора, оставив в сундуке наггетс, а затем скормив салат спокойнствия."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/tame_vallumraptor"
+				criterion: ""
+				id: "56410D7ED047FB14"
+				type: "advancement"
+			}]
+			x: -11.803571428571423d
+			y: 1.9642857142857153d
+		}
+		{
+			dependencies: ["7E4C85B5CAA4E92C"]
+			disable_toast: true
+			id: "03282594F6AB33AD"
+			rewards: [{
+				id: "6398C21A9BC15ACD"
+				type: "xp"
+				xp: 500
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "alexscaves:alexscaves/discover_magnetic_caves"
+				criterion: ""
+				id: "20014EDD0D522463"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["03282594F6AB33AD"]
+			id: "56E81FD06DC0A9AF"
+			rewards: [
+				{
+					count: 8
+					id: "5C32F25F5FAB32B9"
+					item: "minecraft:iron_ingot"
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					id: "094679DB7B52D805"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "21F4420E1469582B"
+					item: "alexscaves:raw_azure_neodymium"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "464F2AFCDA1B5366"
+					item: "alexscaves:raw_scarlet_neodymium"
+					type: "item"
+				}
+			]
+			x: -2.125d
+			y: -5.357142857142861d
+		}
+		{
+			dependencies: ["03282594F6AB33AD"]
+			disable_toast: true
+			id: "766B1307FDCE86E2"
+			tasks: [{
+				advancement: "alexscaves:alexscaves/defeat_notor"
+				criterion: ""
+				id: "22EB03DAC71E3761"
+				type: "advancement"
+			}]
+			x: -1.1607142857142847d
+			y: -6.035714285714285d
+		}
+		{
+			dependencies: ["766B1307FDCE86E2"]
+			id: "3CED9917F58323AE"
+			rewards: [{
+				count: 5
+				id: "62D2819BCE9AF647"
+				item: "minecraft:iron_ingot"
+				random_bonus: 11
+				type: "item"
+			}]
+			subtitle: "Может плохо рабоать с шейдерами!"
+			tasks: [{
+				id: "1921830AF7BEE634"
+				item: "alexscaves:hologram_projector"
+				type: "item"
+			}]
+			x: -0.6249999999999929d
+			y: -7.214285714285715d
+		}
+		{
+			dependencies: ["56E81FD06DC0A9AF"]
+			id: "7A98F177FFCD4621"
+			rewards: [
+				{
+					count: 2
+					id: "6C61349405CD98E4"
+					item: "alexscaves:seeking_arrow"
+					random_bonus: 30
+					type: "item"
+				}
+				{
+					id: "51BD90820F7D37D9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Советую посмотреть гайды по магнитам, можно делать прикольные вещи."
+			tasks: [
+				{
+					id: "24D4727A08DA32CF"
+					item: "alexscaves:scarlet_magnet"
+					type: "item"
+				}
+				{
+					id: "50B31482A00F03C3"
+					item: "alexscaves:azure_magnet"
+					type: "item"
+				}
+			]
+			x: -2.3035714285714306d
+			y: -6.535714285714292d
+		}
+		{
+			dependencies: ["03282594F6AB33AD"]
+			id: "37E76CC8DEF0C7DA"
+			tasks: [{
+				entity: "alexscaves:magnetron"
+				icon: "alexscaves:heart_of_iron"
+				id: "3C046257B8E9534D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["37E76CC8DEF0C7DA"]
+			id: "2C3C1EC04A7FB858"
+			rewards: [
+				{
+					id: "262E7ADF0B47BA81"
+					item: "minecraft:iron_ingot"
+					random_bonus: 21
+					type: "item"
+				}
+				{
+					id: "232B91AB0E2F6F3E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Может притягивать и отталкивать нанося урон."
+			tasks: [{
+				id: "599CD4057A23A6A4"
+				item: {
+					Count: 1b
+					id: "alexscaves:resistor_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.9464285714285765d
+			y: -7.464285714285715d
+		}
+		{
+			dependencies: ["31ACB02C5AE1AD43"]
+			id: "4EFD3299DEE48BA9"
+			tasks: [{
+				advancement: "alexscaves:alexscaves/telecore"
+				criterion: ""
+				disable_toast: true
+				id: "272B5F63CD82E7D3"
+				type: "advancement"
+			}]
+			x: -1.374999999999993d
+			y: -8.857142857142861d
+		}
+		{
+			dependencies: ["4EFD3299DEE48BA9"]
+			id: "44F35B2A41727EE9"
+			rewards: [{
+				id: "233FAE39B0D83AE3"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Перчатка Бесконечности (нет)"
+			tasks: [{
+				id: "677D5495B92A934A"
+				item: {
+					Count: 1b
+					id: "alexscaves:galena_gauntlet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.1964285714285694d
+			y: -9.75d
+		}
+		{
+			dependencies: ["37E76CC8DEF0C7DA"]
+			id: "388BF3746547ECA4"
+			rewards: [
+				{
+					count: 4
+					id: "1437B0398494D8BD"
+					item: "alexscaves:magnetic_light"
+					type: "item"
+				}
+				{
+					id: "28C0DB8A54A9369A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "А тут разбирайся сам, я устал."
+			tasks: [{
+				id: "6ED59E455F047769"
+				item: "alexscaves:quarry"
+				type: "item"
+			}]
+			x: 2.0892857142857153d
+			y: -5.107142857142861d
+		}
+		{
+			dependencies: ["7A98F177FFCD4621"]
+			icon: "alexscaves:seeking_arrow"
+			id: "31ACB02C5AE1AD43"
+			rewards: [{
+				id: "4787ED608E48A9DC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "alexscaves:teletor"
+				id: "15F3B8C8A1CFD68A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0535714285714235d
+			y: -7.714285714285715d
+		}
+		{
+			dependencies: ["3CED9917F58323AE"]
+			id: "2A98C2EEA5C5A0B5"
+			rewards: [
+				{
+					count: 2
+					id: "7C3C8F1135633C78"
+					item: "ae2:certus_quartz_crystal"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "2A5DFC9EA7E8F764"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 0.75d
+			subtitle: "Служит для записи голограммы существа и просмотра на проекторе."
+			tasks: [{
+				id: "3F8BC24505D5F696"
+				item: "alexscaves:holocoder"
+				type: "item"
+			}]
+			x: -0.017857142857138797d
+			y: -8.25d
+		}
+		{
+			dependencies: ["388BF3746547ECA4"]
+			id: "6911CFCBAE1BCE21"
+			rewards: [
+				{
+					id: "1A3AD48326F6035A"
+					item: {
+						Count: 1b
+						id: "minecraft:golden_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29D40BB801379549"
+					type: "xp"
+					xp: 150
+				}
+			]
+			subtitle: "Нужен для работы карьера."
+			tasks: [{
+				id: "552E114F77832CED"
+				item: "alexscaves:quarry_smasher"
+				type: "item"
+			}]
+			x: 2.1964285714285694d
+			y: -7.25d
+		}
+		{
+			dependencies: ["2D6E0CCCA92E732C"]
+			id: "4DAEB04CB30E7216"
+			rewards: [
+				{
+					id: "1A3DF4F8FFCD0A11"
+					item: "minecraft:bucket"
+					type: "item"
+				}
+				{
+					id: "66798983A7E82110"
+					type: "xp"
+					xp: 500
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "alexscaves:alexscaves/discover_abyssal_chasm"
+				criterion: ""
+				disable_toast: true
+				id: "1BB4B6FEAE95CBEB"
+				type: "advancement"
+			}]
+			x: 5.803571428571416d
+			y: -0.8928571428571459d
+		}
+		{
+			dependencies: ["4DAEB04CB30E7216"]
+			id: "0987465B8CA7C758"
+			tasks: [{
+				advancement: "alexscaves:alexscaves/discover_abyssal_ruins"
+				criterion: ""
+				id: "7BC39331300E3D9A"
+				type: "advancement"
+			}]
+			x: 7.339285714285694d
+			y: -1.3214285714285694d
+		}
+		{
+			dependencies: ["4DAEB04CB30E7216"]
+			id: "0E664FADDD13F0C8"
+			rewards: [{
+				id: "510B1B3A9D4FD726"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "alexscaves:alexscaves/abyssal_bucket"
+				criterion: ""
+				id: "1AD1C176F761BBCF"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0987465B8CA7C758"]
+			id: "22E47403DC1098B7"
+			rewards: [
+				{
+					count: 6
+					id: "5642E13800551614"
+					item: "minecraft:copper_ingot"
+					type: "item"
+				}
+				{
+					id: "603D1E03C408D285"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Чинить медью."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/ride_submarine"
+				criterion: ""
+				id: "571AA5D2007653A1"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0987465B8CA7C758"]
+			id: "6626DBA819F26336"
+			rewards: [
+				{
+					id: "4549EBD2057F708E"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:respiration"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E429938C5F647B6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "alexscaves:alexscaves/diving_armor"
+				criterion: ""
+				id: "206309F4C09F9029"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0987465B8CA7C758"]
+			id: "1697D279F6C9B6B4"
+			rewards: [
+				{
+					count: 4
+					id: "1B3CC72F2D9716C9"
+					item: "minecraft:diamond"
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					id: "00BFC25FC50C1210"
+					type: "xp"
+					xp: 2500
+				}
+			]
+			subtitle: "Придется немного разобраться самому."
+			tasks: [
+				{
+					id: "1AF8BF83758A753F"
+					item: {
+						Count: 1b
+						id: "alexscaves:sea_staff"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "602D615E6E02E108"
+					item: {
+						Count: 1b
+						id: "alexscaves:magic_conch"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35B14422818179A4"
+					item: {
+						Count: 1b
+						id: "alexscaves:ortholance"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6CD6C651F542787B"]
+			id: "590084D979F7A5DA"
+			rewards: [
+				{
+					id: "072FC00A4F9AE303"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "6824476F8C6C604E"
+					item: "minecraft:bucket"
+					type: "item"
+				}
+			]
+			size: 1.5d
+			subtitle: "Тут не вылечится."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/discover_toxic_caves"
+				criterion: ""
+				id: "4A26635A9E5212E7"
+				type: "advancement"
+			}]
+			x: -2.25d
+			y: 3.75d
+		}
+		{
+			dependencies: ["590084D979F7A5DA"]
+			id: "2D6A8854BEE7A0DC"
+			tasks: [{
+				advancement: "alexscaves:alexscaves/polymer_plate"
+				criterion: ""
+				id: "06127021CAD5EC10"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2D6A8854BEE7A0DC"]
+			id: "1D050C196D10C5E7"
+			rewards: [
+				{
+					count: 6
+					id: "26B9E47DAD76362E"
+					item: "minecraft:emerald"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "2382EA6957A2706B"
+					type: "xp"
+					xp: 200
+				}
+			]
+			subtitle: "Создай полный комплект защиты."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/hazmat_armor"
+				criterion: ""
+				id: "36B4A732DC18D807"
+				type: "advancement"
+			}]
+			x: -5.196428571428605d
+			y: 5.250000000000014d
+		}
+		{
+			dependencies: ["590084D979F7A5DA"]
+			id: "63F09C98A5338987"
+			subtitle: "Поймай радиабра"
+			tasks: [{
+				advancement: "alexscaves:alexscaves/radgill_bucket"
+				criterion: ""
+				id: "063801BC8BDF0F64"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["63F09C98A5338987"]
+			id: "2749D402AEA2112E"
+			rewards: [
+				{
+					count: 4
+					id: "3B8676F89554DB0A"
+					item: "alexscaves:slam"
+					type: "item"
+				}
+				{
+					id: "54D4E44B5428B64D"
+					type: "xp"
+					xp: 400
+				}
+			]
+			subtitle: "Приручи дух кота."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/tame_raycat"
+				criterion: ""
+				id: "586C549299788407"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["590084D979F7A5DA"]
+			id: "1705626688DF9515"
+			rewards: [
+				{
+					count: 2
+					id: "3544849C00D740B3"
+					item: "minecraft:diamond"
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					id: "71E6CF5579B67D9F"
+					type: "xp"
+					xp: 600
+				}
+			]
+			size: 1.4d
+			subtitle: "Убей или умри."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/defeat_nucleeper"
+				criterion: ""
+				id: "6D3ADC91127764DF"
+				type: "advancement"
+			}]
+			x: -4.017857142857174d
+			y: 6.821428571428598d
+		}
+		{
+			dependencies: ["71F0ABC81AB3B087"]
+			id: "13BE3332FBBB1DB2"
+			rewards: [{
+				id: "3306369280491CCD"
+				type: "xp"
+				xp: 500
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "alexscaves:alexscaves/discover_forlorn_hollows"
+				criterion: ""
+				id: "1589F59A0F91C3DD"
+				type: "advancement"
+			}]
+			x: 3.75d
+			y: 4.5d
+		}
+		{
+			dependencies: ["13BE3332FBBB1DB2"]
+			id: "1052570F832756FF"
+			rewards: [
+				{
+					count: 2
+					id: "46C59CA5162414A8"
+					item: "twilightforest:charm_of_life_1"
+					type: "item"
+				}
+				{
+					id: "53A16336C8994C90"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "alexscaves:alexscaves/discover_underzealot"
+				criterion: ""
+				id: "51F5E31D1C840FF4"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1052570F832756FF"]
+			id: "64880946B8A95F6A"
+			subtitle: "Стань сидетелем ретуала."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/underzealot_sacrifice"
+				criterion: ""
+				id: "6C2123E2A29641D4"
+				type: "advancement"
+			}]
+			x: 6.089285714285673d
+			y: 6.035714285714306d
+		}
+		{
+			dependencies: ["64880946B8A95F6A"]
+			id: "4810B0D255AF912F"
+			rewards: [
+				{
+					id: "1EE34C1CF50E53F9"
+					item: "alexscaves:burrowing_arrow"
+					random_bonus: 11
+					type: "item"
+				}
+				{
+					id: "77D79E16915C02E5"
+					type: "xp"
+					xp: 400
+				}
+			]
+			subtitle: "Одолей смотрителя"
+			tasks: [{
+				advancement: "alexscaves:alexscaves/defeat_watcher"
+				criterion: ""
+				id: "69B19A361232F24F"
+				type: "advancement"
+			}]
+			x: 7.33928571428568d
+			y: 5.500000000000021d
+		}
+		{
+			dependencies: ["1052570F832756FF"]
+			id: "727F6F845F78D4CE"
+			rewards: [{
+				id: "49A686AEF46E4B48"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "Одолей монстра."
+			tasks: [{
+				advancement: "alexscaves:alexscaves/defeat_forsaken"
+				criterion: ""
+				id: "36E60A687D32890A"
+				type: "advancement"
+			}]
+			x: 6.446428571428534d
+			y: 7.714285714285737d
+		}
+		{
+			dependencies: ["727F6F845F78D4CE"]
+			id: "27BB90DEC95526E2"
+			rewards: [
+				{
+					id: "7EB0160BF1522FFB"
+					item: "twilightforest:charm_of_keeping_3"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0B84DB2DE0A364E3"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "3F93068FF6698F6D"
+					type: "xp"
+					xp: 700
+				}
+			]
+			subtitle: "Стань воплозением тьмы"
+			tasks: [
+				{
+					id: "1712581D5D110C3C"
+					item: {
+						Count: 1b
+						id: "alexscaves:hood_of_darkness"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B81CDB26B557FD2"
+					item: {
+						Count: 1b
+						id: "alexscaves:cloak_of_darkness"
+						tag: {
+							CanCharge: 1b
+							CloakCharge: 822
+							Damage: 0
+							LastEquipMessageTime: 186667L
+							LastLightTimestamp: 187492L
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3326F8AE548F6281"
+					item: {
+						Count: 1b
+						id: "alexscaves:dreadbow"
+						tag: {
+							Damage: 0
+							LastUsedArrowType: "minecraft:arrow"
+							PrevUseTime: 0
+							UseTime: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ангел Бездны."
+			x: 4.910714285714249d
+			y: 8.392857142857167d
+		}
+	]
+	title: "Немного затерянных земель"
+}

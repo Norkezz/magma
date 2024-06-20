@@ -1,0 +1,1196 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "11DF9D1A0D677895"
+	group: "13E80A90B3F8B7D2"
+	icon: "create:large_cogwheel"
+	id: "11DF9D1A0D677895"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "createaddition:item/electrum_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "minecraft:item/blaze_powder"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.0d
+			y: 6.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3F4AB20001FD3B3F"]
+			description: ["Для начала этой эпахи надо сделать андезитовый слиток."]
+			id: "086C040BC56CD672"
+			rewards: [{
+				count: 2
+				id: "57C7F2E89D0CC664"
+				item: "create:shaft"
+				random_bonus: 8
+				type: "item"
+			}]
+			subtitle: "Начало положено."
+			tasks: [{
+				id: "6E9968F473E8D068"
+				item: "create:shaft"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["086C040BC56CD672"]
+			description: ["Просто добавь воды и ОНО КРУТИТСЯ."]
+			id: "277589DA57F5AE8A"
+			rewards: [{
+				id: "323084CD72F155C2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "08E1C15E0518D69B"
+				item: "create:water_wheel"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["277589DA57F5AE8A"]
+			description: ["Нужно больше допустимой нагрузки?"]
+			id: "3CC127391450DD07"
+			rewards: [{
+				id: "3999E9B12D276C8B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "56C1710272DF019D"
+				item: "create:large_water_wheel"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["277589DA57F5AE8A"]
+			description: ["Важная штука."]
+			id: "55929BDE893F8EB2"
+			rewards: [
+				{
+					count: 2
+					id: "57A76D14C605D12F"
+					item: "create:andesite_casing"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "2D52FE3E08ACAC16"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "165D57CEF7D0E590"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["55929BDE893F8EB2"]
+			description: ["Пластины делать тут. "]
+			id: "5EA7D9C53293BC5A"
+			rewards: [
+				{
+					count: 5
+					id: "3464E05B8DEF4AF4"
+					item: "create:andesite_alloy"
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					id: "547D547C3CEA9949"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "15FEB72F57B0C3C7"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5EA7D9C53293BC5A"]
+			description: ["Почему оно называется депо?"]
+			id: "794B792F325F579A"
+			rewards: [
+				{
+					count: 5
+					id: "5BEC5BA024C61AB2"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "532EA5ABE574D4E1"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "5BFF480FA6328CD3"
+				item: "create:depot"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["794B792F325F579A"]
+			description: ["Учимся делать листы из слитков."]
+			id: "5565117B1A0AEDFE"
+			rewards: [
+				{
+					count: 5
+					id: "43D99FF1EA328713"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "240063E757FD7579"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "78B8B2C1FCEC0D95"
+				item: "create:iron_sheet"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["086C040BC56CD672"]
+			description: ["Они успеют тебе надоесть, но я надеюсь ты разберешься как они работают быстрее меня."]
+			id: "1D9D146A11244B8A"
+			rewards: [
+				{
+					id: "573D5FD6E1804E1D"
+					item: "create:cogwheel"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "44A23393FE70A8C0"
+					type: "xp"
+					xp: 15
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 2L
+				id: "3A806AC5785F81D5"
+				item: "create:cogwheel"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1D9D146A11244B8A"]
+			description: ["Главное не размер, а умение им пользоваться."]
+			id: "244D776CBA45EA54"
+			rewards: [
+				{
+					id: "0CDA7D45D51B7196"
+					item: "create:cogwheel"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "7A872E44EA14530D"
+					type: "xp"
+					xp: 5
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "16355299D5FE3CFA"
+				item: "create:large_cogwheel"
+				type: "item"
+			}]
+			x: -0.9642857142857153d
+			y: 0.625d
+		}
+		{
+			dependencies: ["5EA7D9C53293BC5A"]
+			description: ["Венчик всему голова."]
+			id: "196DB08004284800"
+			rewards: [
+				{
+					id: "344AA75305568F84"
+					item: "create:andesite_casing"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "6DF063D9497BCC1E"
+					type: "xp"
+					xp: 1
+				}
+			]
+			tasks: [{
+				id: "6364481B29122E2F"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["196DB08004284800"]
+			description: ["Оно тебе нужно, просто смирись."]
+			id: "304EE2F6863A4E5F"
+			rewards: [{
+				id: "623F2888933AA41E"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "104856482FDE73FF"
+				item: "create:basin"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["304EE2F6863A4E5F"]
+			description: ["Начинается..."]
+			id: "40363421C8E7CA75"
+			rewards: [
+				{
+					count: 5
+					id: "415EE25B2F1DE3CD"
+					item: "minecraft:iron_ingot"
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					id: "7508B06AA4C34D9B"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "0CF806FB43D83312"
+				item: "create:empty_blaze_burner"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["40363421C8E7CA75"]
+			description: ["Это будет сложно, но тебе надо поймать ифрита в эту штуку.)"]
+			id: "3025E610307A7AA3"
+			rewards: [
+				{
+					count: 2
+					id: "4B39B82C448C6A6C"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "1419B6378826A7DC"
+					type: "xp"
+					xp: 666
+				}
+			]
+			tasks: [{
+				id: "731766C942399DAC"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["55929BDE893F8EB2"]
+			description: ["Сделаем медь не такой бесполезной."]
+			id: "4F80B0D8EAE19B8F"
+			rewards: [
+				{
+					count: 10
+					id: "794445710F103580"
+					item: "minecraft:raw_copper"
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					id: "6590C389AA8FF882"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "10CF3AF7B8F285E5"
+				item: "create:copper_casing"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4F80B0D8EAE19B8F"]
+			description: ["Просто бак."]
+			id: "7B8CBCAA64BAEC01"
+			rewards: [{
+				id: "3D68E79A02D57AA2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 9L
+				id: "1E01650D2C06E123"
+				item: "create:fluid_tank"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B8CBCAA64BAEC01"]
+			description: ["Кажется трубы надо смочить."]
+			id: "5ADFA73345EAF683"
+			rewards: [
+				{
+					count: 5
+					id: "341C42E714D816C7"
+					item: "create:copper_sheet"
+					type: "item"
+				}
+				{
+					id: "05B302D6196E5022"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "2615A91CD6A1E072"
+				item: "create:fluid_pipe"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5ADFA73345EAF683"]
+			description: ["Нам же нужно как то воду пустить по трубам, помпа тебе в помощь."]
+			id: "10E107E238DD9A5F"
+			rewards: [{
+				id: "1BD4871872D92881"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "405D8A3EB0DAB450"
+				item: "create:mechanical_pump"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["10E107E238DD9A5F"]
+			description: ["Вода нужна, для этой штуки."]
+			id: "7E622D5D62253836"
+			rewards: [
+				{
+					id: "490694E5656237FE"
+					item: "minecraft:bucket"
+					type: "item"
+				}
+				{
+					id: "5D961CEA5AEBDAE3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0E130AC437CD26A7"
+				item: "create:steam_engine"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B8CBCAA64BAEC01"]
+			description: ["Сойдет костер, но лучше что нибудь погорячее."]
+			id: "5F88AB0B84CDF73F"
+			rewards: [
+				{
+					count: 10
+					id: "2BFAA5B5FB4968E0"
+					item: "minecraft:coal"
+					random_bonus: 22
+					type: "item"
+				}
+				{
+					id: "039669833488BA04"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				count: 9L
+				id: "00BE3ED6A802D232"
+				item: "minecraft:campfire"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["55929BDE893F8EB2"]
+			id: "4AD9E692B6231C03"
+			rewards: [
+				{
+					count: 2
+					id: "51B283E903EE38C3"
+					item: "create:brass_ingot"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "174FFBA017574484"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "0AABA625F3471BFC"
+				item: "create:brass_casing"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"4AD9E692B6231C03"
+				"616BAA30158B4C52"
+			]
+			description: [" Выводит определенную скорость и направление вращения"]
+			id: "430ACA634E15E1FB"
+			rewards: [
+				{
+					count: 2
+					id: "1B3074812DD6346D"
+					item: "create:brass_ingot"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "5EC28A83239F9CD6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0CC24E842D2D8D50"
+				item: "create:rotation_speed_controller"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4AD9E692B6231C03"]
+			id: "37B4B537523BC524"
+			rewards: [
+				{
+					count: 32
+					id: "72C7D6E73186379A"
+					item: "minecraft:andesite"
+					type: "item"
+				}
+				{
+					id: "04E18F17EB031662"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "6FCF30211D319340"
+				item: "create:mechanical_crafter"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["37B4B537523BC524"]
+			description: ["Главное не суй пальцы..."]
+			id: "717142F962132A8C"
+			rewards: [
+				{
+					id: "40DAD49A5AB828E5"
+					item: "create:speedometer"
+					type: "item"
+				}
+				{
+					id: "407E26C456BBC4D7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "06F484428679A60A"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["086C040BC56CD672"]
+			description: ["Надетые очки инженера будут показывать нагрузку на рассматриваемую машину во время ее работы. "]
+			id: "61F83C2ACE0F6B1D"
+			rewards: [{
+				id: "5F3A9CF6726EC651"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "0F5AAF1E769F26D6"
+				item: "create:goggles"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["086C040BC56CD672"]
+			description: ["Служит для поворота механизмов."]
+			id: "20C39FC085D91E1E"
+			rewards: [{
+				id: "5EAA387DC8FBA056"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "78E349C4188EE84E"
+				item: "create:wrench"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5565117B1A0AEDFE"]
+			description: ["Медь то не такая бесполезная оказывается."]
+			id: "6D9CA5AE166FF7C6"
+			rewards: [
+				{
+					id: "51DC85EE76B9285A"
+					item: "minecraft:raw_copper"
+					random_bonus: 9
+					type: "item"
+				}
+				{
+					id: "2694F279590798F1"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				count: 10L
+				id: "6D2F2F9224CC14CE"
+				item: "create:copper_sheet"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5565117B1A0AEDFE"]
+			id: "13850BCEEEFEC0E1"
+			rewards: [
+				{
+					count: 3
+					id: "44F0007E3C748A5A"
+					item: "minecraft:iron_ingot"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "0C0E2BE2973B929C"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "336818282B78183C"
+				item: "createaddition:rolling_mill"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["13850BCEEEFEC0E1"]
+			description: ["Только не сдавай медные провода ради денег, они тебе еще нужны будут."]
+			id: "01490892C4ACC44C"
+			rewards: [
+				{
+					id: "0A3D4EE45F4747DA"
+					item: "create:copper_sheet"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "563A8A5B70C6CA9A"
+					item: "create:iron_sheet"
+					random_bonus: 4
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 10L
+					id: "232D24E5BC4FCB07"
+					item: "createaddition:copper_wire"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "5F8AE44F98AD93C5"
+					item: "createaddition:iron_wire"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["01490892C4ACC44C"]
+			id: "26FB22479621E8EB"
+			rewards: [
+				{
+					id: "2FA8395E09D19A05"
+					item: "minecraft:copper_ingot"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "5F461E6B7BB535A8"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				count: 10L
+				id: "4155E272B6549EC4"
+				item: "createaddition:copper_spool"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"6D9CA5AE166FF7C6"
+				"5565117B1A0AEDFE"
+			]
+			description: ["А это вообще не лампачка..."]
+			id: "2337CA109211CC2E"
+			rewards: [
+				{
+					id: "23DB02062D9F2A01"
+					item: "createaddition:capacitor"
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "01DD6FE5A4DC7206"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "7A28CBCF81DA3E2B"
+				item: "createaddition:capacitor"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5565117B1A0AEDFE"]
+			description: ["Лампочка, но не светится..."]
+			id: "2D50C0DDA556DF09"
+			rewards: [
+				{
+					id: "2D852DDAAF09238F"
+					item: "create:electron_tube"
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "138430AD814526F9"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "3C0AC81771B02CBF"
+				item: "create:electron_tube"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"55929BDE893F8EB2"
+				"2D50C0DDA556DF09"
+			]
+			description: ["Можно обойтись и одним, но делай 3, делай из них цепочку для следующего крафта."]
+			id: "1D537B72214CBCED"
+			rewards: [
+				{
+					count: 3
+					id: "0B00AD8300A77CD6"
+					item: "create:polished_rose_quartz"
+					type: "item"
+				}
+				{
+					id: "68EBC9D35BC83312"
+					type: "xp"
+					xp: 60
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "60CF702D8A8BC9DD"
+				item: "create:deployer"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1D537B72214CBCED"]
+			id: "7ED3990DBA508C74"
+			rewards: [
+				{
+					count: 16
+					id: "1F3A3DCE5D9664DB"
+					item: "minecraft:kelp"
+					type: "item"
+				}
+				{
+					id: "1EA3D148E3408103"
+					type: "xp"
+					xp: 20
+				}
+			]
+			subtitle: "Можно натянуть между валами.)"
+			tasks: [{
+				count: 5L
+				id: "7C746D82A9E1ACF3"
+				item: "create:belt_connector"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["196DB08004284800"]
+			description: ["Смешиваем металлы правильно."]
+			id: "2C4A4D197714C06E"
+			rewards: [
+				{
+					count: 5
+					id: "41292BB21DED9116"
+					item: "create:cogwheel"
+					type: "item"
+				}
+				{
+					id: "067A351387798A73"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				count: 10L
+				id: "207937CC9AF79CAD"
+				item: "create:brass_ingot"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7ED3990DBA508C74"]
+			description: ["(нет)"]
+			id: "616BAA30158B4C52"
+			rewards: [
+				{
+					count: 2
+					id: "0BE61198F827AF78"
+					item: "create:andesite_alloy"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "67761252B6208950"
+					type: "xp"
+					xp: 50
+				}
+			]
+			subtitle: "С этой  штукой ты будешь очень точным."
+			tasks: [{
+				id: "2B582358C7F1166F"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["717142F962132A8C"]
+			description: ["Начало!"]
+			id: "13F4CDAB36DF944E"
+			rewards: [
+				{
+					count: 16
+					id: "5B4FCCECC40BA86A"
+					item: "minecraft:raw_iron"
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					id: "09953B9491F1C8B7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Конец?"
+			tasks: [{
+				id: "0D1D25C2D27002C1"
+				item: "createaddition:electrum_ingot"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"2337CA109211CC2E"
+				"26FB22479621E8EB"
+			]
+			description: ["Генератор... Первый источник энергии."]
+			id: "2D2B2CC4AE5D9BCC"
+			rewards: [{
+				id: "1B385F41EA30A5D1"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "6AFFBBFB0DAC360E"
+					item: "createaddition:alternator"
+					type: "item"
+				}
+				{
+					id: "1C6F6B7F90AA64E0"
+					item: "createaddition:electric_motor"
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["37B4B537523BC524"]
+			description: ["Управление ранцем: G - включить\\ выключить ранец, H - включить \\ выключить режим удержания высоты. Заправить ранец очень просто, вам нужно установить его в мире как обычный блок, подвести сверху механическую энергию вращения."]
+			id: "00CB67B8B39F23FC"
+			rewards: [
+				{
+					count: 6
+					id: "3F5DBFA1B897A7A1"
+					item: "create:andesite_alloy"
+					random_bonus: 50
+					type: "item"
+				}
+				{
+					id: "398271FA713B1771"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "21D06D6F723E6E69"
+				item: {
+					Count: 1b
+					id: "create_jetpack:jetpack"
+					tag: {
+						Air: 900.0f
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["086C040BC56CD672"]
+			hide_dependency_lines: true
+			id: "59075EE20DA9E19B"
+			rewards: [{
+				count: 2
+				id: "629276E360C2F0EC"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51EE7818C521B742"
+				item: {
+					Count: 1b
+					id: "thermal:satchel"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["717142F962132A8C"]
+			id: "27D15011BF272EF3"
+			tasks: [{
+				id: "204B04A06D2366B4"
+				item: "create:crimsite"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["27D15011BF272EF3"]
+			id: "246EDECD581AD2E6"
+			rewards: [{
+				count: 4
+				id: "5BF55C76077281DC"
+				item: "create:experience_nugget"
+				random_bonus: 21
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "272BDADDC873DBF8"
+				item: "create:crushed_raw_iron"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["717142F962132A8C"]
+			id: "3616387F846F9805"
+			tasks: [{
+				id: "7BDD204835F30755"
+				item: "create:asurine"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3616387F846F9805"]
+			id: "07033BAFA18D4622"
+			rewards: [{
+				id: "50A489D6CFFFD5B7"
+				item: "create:experience_nugget"
+				random_bonus: 14
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "334B3378834D7585"
+				item: "create:crushed_raw_zinc"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["717142F962132A8C"]
+			id: "0056B28E57FBCACF"
+			tasks: [{
+				id: "08C9BBE9C3E9DE5C"
+				item: "create:veridium"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0056B28E57FBCACF"]
+			id: "31211C65B3C66E7F"
+			rewards: [{
+				id: "7055A21A067DE95D"
+				item: "create:experience_nugget"
+				random_bonus: 32
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "681B6EF21C262BB5"
+				item: "create:crushed_raw_copper"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["717142F962132A8C"]
+			id: "0093E7F344263557"
+			tasks: [{
+				id: "26C59DC123DE4230"
+				item: "create:ochrum"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0093E7F344263557"]
+			id: "7D8459E6392C305F"
+			rewards: [{
+				id: "53EB1759FCB69574"
+				item: "create:experience_nugget"
+				random_bonus: 5
+				type: "item"
+			}]
+			tasks: [{
+				id: "60F82E6D2DEEC0D1"
+				item: "create:crushed_raw_gold"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2D2B2CC4AE5D9BCC"]
+			description: [
+				"Надо же где то хранить энергию пока что."
+				"Многоблочная структура."
+			]
+			id: "1B5D5F8E8E895047"
+			rewards: [
+				{
+					count: 16
+					id: "085A196DF840016F"
+					item: "minecraft:redstone"
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					id: "7D0D45896708A34E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "220v"
+			tasks: [{
+				count: 4L
+				id: "06FF2E8B86219233"
+				item: "createaddition:modular_accumulator"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["55929BDE893F8EB2"]
+			description: ["Удобная вещь если надо повернуть вращение вала."]
+			id: "0F891BAB26FF6398"
+			rewards: [{
+				id: "380F4CD0DE8ED3B4"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [
+				{
+					id: "4FB5039FAC3FBE97"
+					item: "create:gearbox"
+					type: "item"
+				}
+				{
+					id: "27DF1CA6C78DF568"
+					item: "create:vertical_gearbox"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["13F4CDAB36DF944E"]
+			description: [
+				"Это верхушка айзберга, мод очень обширный. Можно делать автофермы, поезда и много чего интересного."
+				"Я лишь показал основу."
+			]
+			hide_dependency_lines: true
+			id: "70D40C1EBD1DDC57"
+			optional: true
+			rewards: [{
+				id: "2A57232EA82D1E13"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "6DB2A83CB755693A"
+				title: "p.s"
+				type: "checkmark"
+			}]
+			title: "P.s"
+			x: 5.0d
+			y: 10.0d
+		}
+	]
+	title: "Развития шестерней"
+}

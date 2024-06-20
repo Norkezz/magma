@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "34240a1273f846d2a2fe0bfe1d36b2f6"
+	name: "TrickyJew#34240a12"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

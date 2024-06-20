@@ -1,0 +1,2037 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "317E7F9FE848528C"
+	group: "13E80A90B3F8B7D2"
+	icon: {
+		Count: 1b
+		id: "immersiveengineering:hammer"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "317E7F9FE848528C"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "immersiveengineering:block/multiblocks/coke_oven_off"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "immersiveengineering:block/multiblocks/blast_furnace_off"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: [ ]
+			image: "createaddition:item/3_meh"
+			rotation: 0.0d
+			width: 15.777777777777779d
+			x: -3.5873015873015817d
+			y: 5.732142857142861d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.5d
+			hover: [ ]
+			image: "immersiveengineering:textures/models/drobitel.png"
+			rotation: 0.0d
+			width: 5.818181818181818d
+			x: -12.5d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "immersiveengineering:textures/models/tryba.png"
+			rotation: 0.0d
+			width: 1.22d
+			x: -3.553751803751794d
+			y: 8.80357142857143d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "immersiveengineering:textures/models/generator.png"
+			rotation: 0.0d
+			width: 10.902874132804756d
+			x: -5.318037518037535d
+			y: 10.162500000000016d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 0.0d
+			width: 1.0625d
+			x: -12.490259740259745d
+			y: 4.384821428571428d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 0.0d
+			width: 1.0625d
+			x: -12.489466089466106d
+			y: 5.619642857142871d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 0.0d
+			width: 1.0625d
+			x: -12.489466089466106d
+			y: 6.876785714285724d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 0.0d
+			width: 1.0625d
+			x: -12.489466089466106d
+			y: 7.991071428571445d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: [ ]
+			image: "immersiveengineering:textures/models/dygovaja.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -12.489466089466106d
+			y: 9.762500000000017d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "immersiveengineering:textures/models/press.png"
+			rotation: 0.0d
+			width: 1.6923076923076923d
+			x: -8.94660894660894d
+			y: 10.491964285714289d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.5d
+			hover: [ ]
+			image: "immersiveengineering:textures/models/kislota.png"
+			rotation: 0.0d
+			width: 8.7625d
+			x: 2.759740259740269d
+			y: 10.27767857142858d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "oldcraft:block/excavator"
+			rotation: 0.0d
+			width: 4.836322869955158d
+			x: -13.311688311688307d
+			y: -2.40089285714285d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 0.0d
+			width: 1.0625d
+			x: -12.45454545454546d
+			y: -0.7937499999999957d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 0.0d
+			width: 1.0625d
+			x: -12.45454545454546d
+			y: 0.45625000000000426d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7680B3890D65A579"]
+			dependency_requirement: "one_completed"
+			description: ["Забудь что запомнил из прошлых эпох, ну почти."]
+			id: "0D57EBF44BA03E46"
+			rewards: [
+				{
+					count: 32
+					id: "30FFBB1476B62B39"
+					item: "minecraft:coal"
+					type: "item"
+				}
+				{
+					id: "13D127B1B7B6B886"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 9L
+				id: "1690BE69CC2F12C6"
+				item: "immersiveengineering:cokebrick"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13F4CDAB36DF944E"]
+			description: [
+				"Оно тебе понадобится и не раз."
+				"Для начала этой эпохи надо сделать электруомывый слиток."
+				"Не все крафты были вставлены в квесты."
+			]
+			id: "7680B3890D65A579"
+			rewards: [{
+				id: "19F333D91A048CD0"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Я лишь направляю, подробная информация по постройкам и прочему в этой книге."
+			tasks: [{
+				id: "04D1DD544FE9C9A1"
+				item: "immersiveengineering:manual"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0D57EBF44BA03E46"]
+			id: "588028389B43A9A0"
+			optional: true
+			rewards: [{
+				id: "251C3D8E7AF32DE2"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				count: 16L
+				id: "181C3D2FDAF3D96A"
+				item: "immersiveengineering:coal_coke"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0D57EBF44BA03E46"]
+			id: "56D9E1738BA40AC3"
+			rewards: [{
+				count: 10
+				id: "61C283E01D584548"
+				item: "minecraft:coal"
+				random_bonus: 22
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B430DF07C74B7F4"
+				item: "immersiveengineering:creosote_bucket"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7680B3890D65A579"]
+			description: ["Нужен для активации всех многоблочных структур."]
+			id: "7CB16F36D8892D5C"
+			rewards: [{
+				id: "0A61DF4BFBDABA80"
+				type: "xp"
+				xp: 1
+			}]
+			tasks: [{
+				id: "558F9FB44F6D6BD9"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56D9E1738BA40AC3"]
+			id: "37EA79B41FC74C1A"
+			rewards: [
+				{
+					id: "313648DB302AA592"
+					item: "minecraft:bucket"
+					type: "item"
+				}
+				{
+					id: "7A90F54360F3F2AA"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "31AE24970466439D"
+				item: "immersiveengineering:treated_wood_horizontal"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7680B3890D65A579"]
+			description: [
+				"Особый мультиблок, предназначенный для создания стали и шлака"
+				"как побочный продукт."
+			]
+			id: "1F7CD26EE080B66C"
+			rewards: [
+				{
+					count: 8
+					id: "56402F110E7F066F"
+					item: "minecraft:iron_ingot"
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					id: "7C54ECACF56447B4"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 9L
+				id: "77576BB55E3ADD67"
+				item: "immersiveengineering:blastbrick"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["588028389B43A9A0"]
+			description: ["Для плавки стали нужен коксовый уголь."]
+			hide_dependency_lines: true
+			icon: "immersiveengineering:coal_coke"
+			id: "1D51171C4B4BEE15"
+			rewards: [{
+				id: "0D5910A8BEC1A05E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0063984ECF238876"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1F7CD26EE080B66C"]
+			description: ["Стальной век."]
+			id: "160708789B555673"
+			rewards: [
+				{
+					count: 10
+					id: "5DA8AE5352668BF1"
+					item: "immersiveengineering:coal_coke"
+					type: "item"
+				}
+				{
+					id: "76F42CB22943011E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				count: 5L
+				id: "5BB28DEC8A0041BE"
+				item: "immersiveengineering:ingot_steel"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4954260A559022D4"]
+			description: ["Начнем выжимать масло из органических материалов."]
+			id: "60A82572B3B011DC"
+			rewards: [
+				{
+					count: 8
+					id: "72C3BCDA30B83030"
+					item: "immersiveengineering:ingot_steel"
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					id: "52FD16C227BD2472"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "60AE45BF84119635"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "50392C5DCDFF5244"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+				{
+					id: "70E7781F5EC629CF"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "01EEA8727BA8AEC9"
+					item: "immersiveengineering:wooden_barrel"
+					type: "item"
+				}
+				{
+					id: "05428062A190353C"
+					item: "minecraft:piston"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "67B2ECF03DF1EC92"
+					item: "immersiveengineering:steel_fence"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "6FC0F75D9CB695C5"
+					item: { Count: 6b, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+			]
+			title: "Соковыжималка"
+			x: -8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["37EA79B41FC74C1A"]
+			description: ["Казалось бы зачем нам еще вид бочки? Но они нам понадобятся."]
+			id: "27B2F0C6D3218792"
+			tasks: [{
+				count: 3L
+				id: "5A14B2F736F9C9CD"
+				item: "immersiveengineering:wooden_barrel"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"66DCBC406BFE4AF7"
+				"7F5B686B1758CEAA"
+			]
+			description: ["Служит для производства этанола."]
+			id: "192ECFE915031240"
+			rewards: [
+				{
+					count: 8
+					id: "5FBB66F60E4D0A85"
+					item: "immersiveengineering:ingot_steel"
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					id: "0DE0FEE464C8057F"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "71436BA4D8DC835C"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6206E6D3BFA15CAD"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3C16C2B53423C239"
+					item: "immersiveengineering:sheetmetal_iron"
+					type: "item"
+				}
+				{
+					id: "5AE99A3FE4C81800"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5C0BC02CCD24061C"
+					item: "minecraft:cauldron"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "4FEDCB1E26FE9544"
+					item: { Count: 6b, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+			]
+			title: "Бродильный аппарат"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["37EA79B41FC74C1A"]
+			id: "6D3794D592259870"
+			rewards: [{
+				id: "267BD3DE0EF7E6E5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "701DEC6DD19EF014"
+				item: "immersiveengineering:workbench"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4426DE1E6E0F3C4A"]
+			description: ["Используется в постройке некоторых мультиблочных структур."]
+			id: "4763F4193696F25C"
+			rewards: [
+				{
+					count: 16
+					id: "1D186CAEDFFB2469"
+					item: "immersiveengineering:ingot_steel"
+					type: "item"
+				}
+				{
+					id: "16309DF8B971B652"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "37F8D7183567001B"
+				item: "immersiveengineering:heavy_engineering"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6D3794D592259870"]
+			id: "108CD0BA77C27397"
+			rewards: [{
+				id: "1184AD4A5EBF71B8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "14AB9B0EE639755A"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:blueprint"
+					tag: {
+						blueprint: "components"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7567010EAC8744F1"]
+			description: ["Используется в постройке некоторых мультиблочных структур."]
+			id: "7F5B686B1758CEAA"
+			rewards: [
+				{
+					id: "470E389295205E8C"
+					item: "minecraft:iron_ingot"
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					id: "4AFC9510BAFA19CD"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "483568E95017BC65"
+				item: "immersiveengineering:light_engineering"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["108CD0BA77C27397"]
+			description: ["Используется в крафте шахтёрского бура, револьвера, бродильного аппарата и многих других предметов."]
+			id: "7567010EAC8744F1"
+			rewards: [{
+				id: "76D99D51BF9CE23D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 8L
+				id: "0E25B22F84ABBF9F"
+				item: "immersiveengineering:component_iron"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4FA514648728EFB2"]
+			id: "4954260A559022D4"
+			rewards: [
+				{
+					count: 10
+					id: "13AFAA26CF492AA4"
+					item: "immersiveengineering:ingot_steel"
+					type: "item"
+				}
+				{
+					id: "3F05BC2FCE13C005"
+					type: "xp"
+					xp: 15
+				}
+			]
+			subtitle: "Забор, но стальной"
+			tasks: [{
+				count: 3L
+				id: "418262790AB2BE0C"
+				item: "immersiveengineering:steel_fence"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["108CD0BA77C27397"]
+			description: ["Используется в постройке некоторых мультиблочных структур."]
+			hide_dependency_lines: true
+			id: "74C83C22A81606DD"
+			rewards: [
+				{
+					count: 10
+					id: "5A9BF2844D1B73CA"
+					item: "minecraft:iron_ingot"
+					random_bonus: 22
+					type: "item"
+				}
+				{
+					id: "7D0B8B22623842A3"
+					type: "xp"
+					xp: 60
+				}
+			]
+			tasks: [{
+				count: 20L
+				id: "6377F0B71DA4CF8F"
+				item: "immersiveengineering:sheetmetal_iron"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["74C83C22A81606DD"]
+			description: ["Используется в постройке некоторых мультиблочных структур."]
+			id: "66DCBC406BFE4AF7"
+			rewards: [
+				{
+					id: "0BC88A423FB8CC86"
+					item: "minecraft:iron_ingot"
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					id: "747338EBDF814380"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "3EAF407E06514C4E"
+				item: "immersiveengineering:rs_engineering"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["160708789B555673"]
+			id: "4FA514648728EFB2"
+			rewards: [
+				{
+					count: 2
+					id: "4D7130D64ABA9C19"
+					item: "immersiveengineering:ingot_steel"
+					type: "item"
+				}
+				{
+					id: "6959FFE79C7A346D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Такой же твердый  как ты"
+			tasks: [{
+				count: 6L
+				id: "280F0D7404F9FD95"
+				item: "immersiveengineering:stick_steel"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["108CD0BA77C27397"]
+			description: ["Используется в крафте шахтёрского бура, улучшенного машинного корпуса и дополнительных шнеков."]
+			id: "4426DE1E6E0F3C4A"
+			rewards: [{
+				id: "6698D78A3DCBE5FD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 8L
+				id: "0F2D8B6E1BFE3768"
+				item: "immersiveengineering:component_steel"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["18D14BBD824A9C0A"]
+			description: ["Используется в постройке некоторых мультиблочных структур."]
+			hide_dependency_lines: false
+			id: "266BF88300E56A15"
+			rewards: [
+				{
+					count: 8
+					id: "11AF1374AB1D91C5"
+					item: "immersiveengineering:plate_steel"
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					id: "393A81C803BC6642"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "5D47A494666DF6C4"
+				item: "immersiveengineering:sheetmetal_steel"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["108CD0BA77C27397"]
+			description: ["Турба нужна для передачи жидкости в механизмы."]
+			hide_dependency_lines: true
+			id: "4B6D99EC3C960E85"
+			rewards: [{
+				id: "18FB8279B3076E72"
+				item: "minecraft:iron_ingot"
+				random_bonus: 4
+				type: "item"
+			}]
+			tasks: [{
+				count: 9L
+				id: "718CDBF9025380D9"
+				item: "immersiveengineering:fluid_pipe"
+				type: "item"
+			}]
+			x: -6.015873015873005d
+			y: 6.5625d
+		}
+		{
+			dependencies: ["7680B3890D65A579"]
+			description: [
+				"Коннекторы служат в качестве входа и выхода энергии."
+				"Коннекторые бывают разные по возрастанию пропускной способности."
+			]
+			hide_dependency_lines: true
+			id: "401099EBC66B8DF3"
+			rewards: [{
+				id: "79AF09837FAE52CF"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 6L
+				id: "2F412B999AFC9C40"
+				item: "immersiveengineering:connector_lv"
+				type: "item"
+			}]
+			x: -8.623015873015866d
+			y: 5.1964285714285765d
+		}
+		{
+			dependencies: ["7680B3890D65A579"]
+			description: ["К реле можно подключать больше 1 провода, но он не может отдавать энергию в механизны."]
+			hide_dependency_lines: true
+			id: "0EBFF6C01EC71F13"
+			rewards: [{
+				id: "44C35DDE709D59D0"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "6BC8FF6A311B7960"
+				item: "immersiveengineering:connector_lv_relay"
+				type: "item"
+			}]
+			x: -1.9087301587301368d
+			y: 4.241071428571431d
+		}
+		{
+			dependencies: ["4FA514648728EFB2"]
+			description: ["Нужен для строительства многоблочных структур."]
+			id: "7DD13DA1F6021966"
+			rewards: [
+				{
+					id: "29EA13165E2BB019"
+					item: "minecraft:iron_ingot"
+					random_bonus: 31
+					type: "item"
+				}
+				{
+					id: "7655A047495EA311"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				count: 20L
+				id: "5386BA0D0BC3830A"
+				item: { Count: 28b, id: "immersiveengineering:steel_scaffolding_standard" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"60A82572B3B011DC"
+				"192ECFE915031240"
+			]
+			description: ["Служит для смешинвания масла и этанола, в следствии чего получается топливо для... для того что мы еще не сделали и пока не можем."]
+			id: "2E91E77CC17EDE08"
+			rewards: [
+				{
+					count: 16
+					id: "496A972C8F22A605"
+					item: "minecraft:raw_iron"
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					id: "3EDDA7C2B2FBE39D"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tasks: [
+				{
+					count: 8L
+					id: "79FEF59B904E17DA"
+					item: "immersiveengineering:steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "504313840BC10435"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "53FAEA2D19222088"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "061C11E5621A22BA"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					id: "5D8B908045C463E2"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "2ED909FCB1EF85A3"
+					item: "immersiveengineering:sheetmetal_iron"
+					type: "item"
+				}
+			]
+			title: "Очиститель"
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7680B3890D65A579"]
+			description: [
+				"Провода подключаются к коннекторам или реле, их есть разные виды с разной пропускной способностью. "
+				"Более хорошие провода нельзя подключить к слабым коннекторам, но работет в обратную сторону."
+				"Осторожно провода бьют током."
+			]
+			hide_dependency_lines: true
+			id: "4855F1C58220BBD0"
+			rewards: [{
+				id: "4EC645AF17CCC645"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 10L
+				id: "6B969611D070DF26"
+				item: "immersiveengineering:wirecoil_copper"
+				type: "item"
+			}]
+			x: -2.5515873015872756d
+			y: 3.8482142857142776d
+		}
+		{
+			dependencies: ["7680B3890D65A579"]
+			description: ["Удобный столб для размещения коннекторов и реле. ПКМ молотом по бокам образуют ответвления."]
+			hide_dependency_lines: true
+			id: "268EDF45D135CC4E"
+			rewards: [{
+				id: "4C7C11B96A524F39"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 2L
+				id: "13D5F64889FBA9DE"
+				item: "immersiveengineering:treated_post"
+				type: "item"
+			}]
+			x: -1.4801587301587062d
+			y: 4.848214285714292d
+		}
+		{
+			dependencies: [
+				"4954260A559022D4"
+				"226B06C2E86DACF8"
+			]
+			description: [
+				"Удваивает руды, при дроблении выкидывает из себя 2 пыли руды которые можно переплавить в обычную слитки."
+				"Так же служит для дробление других ресурсов."
+			]
+			id: "1712781473245C4B"
+			rewards: [
+				{
+					count: 8
+					id: "21F276C8700E67EF"
+					item: "minecraft:iron_ore"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "170B16DA3B082001"
+					item: "minecraft:gold_ore"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "2EFF282DFB8606AB"
+					item: "minecraft:copper_ore"
+					type: "item"
+				}
+				{
+					id: "14E016803295A3E9"
+					type: "xp"
+					xp: 400
+				}
+			]
+			tasks: [
+				{
+					id: "2D2B0680B8FF5B1E"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "4626E9102CF7C813"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "2508849BB2D6A476"
+					item: "immersiveengineering:steel_fence"
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "33EBF738264D4D77"
+					item: "minecraft:hopper"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "7CFD0C1D1B21EEB6"
+					item: { Count: 6b, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+			]
+			title: "Дробитель"
+			x: -12.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1712781473245C4B"]
+			id: "2E34E0A1BEEBB04D"
+			rewards: [
+				{
+					count: 9
+					id: "7B8E9C705016B93A"
+					item: "immersiveengineering:ingot_steel"
+					random_bonus: 11
+					type: "item"
+				}
+				{
+					id: "3B8D3F2397A98AB5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					count: 32L
+					id: "3EA549FCB51EE349"
+					item: "immersiveengineering:dust_saltpeter"
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "5DE8F207F15DD672"
+					item: "immersiveengineering:dust_steel"
+					type: "item"
+				}
+			]
+			x: -12.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0FEE7CB89840CFF6"]
+			description: [
+				"Очень прожорливый гениратор, потребляет много топлива."
+				"Имеет 3 выхода энергии."
+			]
+			id: "10F51CEBFAD52507"
+			rewards: [
+				{
+					count: 32
+					id: "3A116DF6B1A4A611"
+					item: "minecraft:coal"
+					type: "item"
+				}
+				{
+					id: "7F50C012D4029D7F"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "7EE7BF91104B3E0A"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 13L
+					id: "7E68055BD2EB7D1D"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "60A0A98EA9C533F0"
+					item: "immersiveengineering:radiator"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "21A50825476A8184"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "53C4AB60528E720C"
+					item: "immersiveengineering:generator"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "45FE19282F0926D5"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "70DBE9B8423389CB"
+					item: { Count: 6b, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+			]
+			title: "Дизельный генератор"
+			x: -3.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"2E34E0A1BEEBB04D"
+				"25CD28C09BF283EE"
+			]
+			description: [
+				"Служит для быстрой плавки металла. Может переплавлять сразу несоклько металлов одновременно."
+				"Для работы требуюстся графитовые слитки."
+			]
+			id: "33FB81780B4623FB"
+			rewards: [
+				{
+					count: 4
+					id: "4660C352AFAF8E14"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "7EE7BB57F843C685"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "245E800CB1A49D53"
+					item: "immersiveengineering:ingot_steel"
+					type: "item"
+				}
+				{
+					id: "46331FE1696F7C3E"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [
+				{
+					id: "747550E2E1DEE264"
+					item: "minecraft:cauldron"
+					type: "item"
+				}
+				{
+					count: 14L
+					id: "12A1D94C111C5AC0"
+					item: "immersiveengineering:slab_sheetmetal_steel"
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "59326FB9C755C10F"
+					item: "immersiveengineering:sheetmetal_steel"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "580F815620A8CA4B"
+					item: "immersiveengineering:storage_steel"
+					type: "item"
+				}
+				{
+					id: "372EDA4FB30765FD"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "00C2C5E399AEA422"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "2C0E684E9B6BF9B2"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					count: 27L
+					id: "673A60219F90F49C"
+					item: "immersiveengineering:blastbrick_reinforced"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "54FFA473A44755AA"
+					item: { Count: 6b, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+			]
+			title: "Дуговая печь"
+			x: -12.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["2E91E77CC17EDE08"]
+			description: [
+				"Жидкости из очистителя можно собрать в ведро."
+				"Для производста биодизеля нужна нетратная пыль как катализатор, изготовить ей можно в дробители."
+			]
+			id: "0FEE7CB89840CFF6"
+			rewards: [{
+				id: "4F58FAE13E875386"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3133B81DE8228430"
+				item: "immersiveengineering:biodiesel_bucket"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["60A82572B3B011DC"]
+			id: "279037245C0D1B06"
+			tasks: [{
+				count: 12L
+				id: "32614AD52E9C4FCA"
+				item: "immersiveengineering:dust_hop_graphite"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["279037245C0D1B06"]
+			description: [
+				"Одна из пяти пресс форм."
+				"Необходим для создания стержней, в том числе графитового электрода."
+			]
+			id: "53CC9E9A65B544E8"
+			rewards: [{
+				id: "0FE8E2D746DFAB9F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5651699E709A0506"
+				item: "immersiveengineering:mold_rod"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["279037245C0D1B06"]
+			description: ["Можно получить путём переплавки HOP графитовая пыль,которая получается в промышленной маслобойне"]
+			id: "1D0DCF62D321BA38"
+			rewards: [
+				{
+					count: 32
+					id: "13E7C3B34365D4E2"
+					item: "minecraft:coal"
+					type: "item"
+				}
+				{
+					id: "565D523BD47CDA12"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 12L
+				id: "0A426525D8803873"
+				item: "immersiveengineering:ingot_hop_graphite"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"53CC9E9A65B544E8"
+				"1D0DCF62D321BA38"
+			]
+			description: [
+				"Служит как элемент нагревания в Дуговой печи, имет 50% отпрочности."
+				"для получения 100% нужно найти черчёж инжинера или купить у жителя."
+			]
+			id: "25CD28C09BF283EE"
+			rewards: [
+				{
+					count: 32
+					id: "05ABB630C2442012"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "105C39D26E8CD3BA"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "5BE736A3F2335139"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:graphite_electrode"
+					tag: {
+						graphDmg: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["76644435761A0602"]
+			description: ["Используется для хранения энергии"]
+			id: "15B7E711D9550D6C"
+			rewards: [{
+				id: "249F46ED123C6816"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "26807482D099A7BA"
+				item: "immersiveengineering:capacitor_lv"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["15B7E711D9550D6C"]
+			description: ["Используется для хранения энергии"]
+			id: "0E450B76E67E0AEB"
+			rewards: [{
+				id: "32E5EC3D60259A82"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "6C1EC60FF1C9BA07"
+				item: "immersiveengineering:capacitor_mv"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0E450B76E67E0AEB"]
+			description: ["Используется для хранения энергии"]
+			id: "3C5D45860A33299B"
+			rewards: [{
+				id: "7F8B96BEDF6B8833"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "370129CEB0A6957F"
+				item: "immersiveengineering:capacitor_hv"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["6DA12F8D05562778"]
+			description: ["Служит для выкачивани жидкости из мира, нижний блок дольшен стоять на жидкости (насос не должен быть погружен в жидкрость!), по бокам можно строить выходы ПКМ молотом."]
+			id: "218A4BF6730C0D68"
+			rewards: [
+				{
+					count: 5
+					id: "3E7525953D2694FF"
+					item: "immersiveengineering:component_iron"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "6739443F0734600C"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "46A5763A2361E3DF"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "5D5081E66D0B0C51"
+				item: "immersiveengineering:fluid_pump"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["10F51CEBFAD52507"]
+			icon: "immersiveengineering:light_bulb"
+			id: "6DA12F8D05562778"
+			shape: "gear"
+			tasks: [{
+				id: "1A959518535B8F82"
+				title: "Пор начать хранить энергию."
+				type: "checkmark"
+			}]
+			title: "Еще один способ хранить энергию"
+			x: -2.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["218A4BF6730C0D68"]
+			description: ["Есть возможность смешивать зелья, но нам он нужен для другого."]
+			id: "652182CB8112FE9A"
+			rewards: [
+				{
+					count: 32
+					id: "2764F441348565B6"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+				{
+					id: "67860ED1C93BFB8E"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "1ABBAEA943B789D3"
+					item: "immersiveengineering:fluid_pump"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 4L
+					id: "6C67C44A4CBE26E9"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4E219D7B68B7EEA2"
+					item: "immersiveengineering:sheetmetal_iron"
+					type: "item"
+				}
+				{
+					id: "7F814F555061BCAD"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "5F28E496D06A832A"
+					item: "immersiveengineering:steel_fence"
+					type: "item"
+				}
+				{
+					id: "7A6AF447D422FC53"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "6C32AB3FFD6D3E5B"
+					item: { Count: 6b, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+			]
+			title: "Смеситель"
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["652182CB8112FE9A"]
+			description: ["Очевидно разливет жидкость которая получилось в Смесители."]
+			id: "183D214EB0EACE2D"
+			rewards: [
+				{
+					id: "27EEAA7801E47C9C"
+					item: "immersiveengineering:lantern"
+					random_bonus: 31
+					type: "item"
+				}
+				{
+					id: "20248468E73DB672"
+					item: "minecraft:iron_ingot"
+					random_bonus: 19
+					type: "item"
+				}
+				{
+					id: "51D9468C8EF79F47"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "341E8B80B9234D7B"
+					item: "immersiveengineering:sheetmetal_iron"
+					type: "item"
+				}
+				{
+					id: "310BFB0F845F13E4"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "75F15306E8EDA004"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "0F2154A66528E5A6"
+					item: "immersiveengineering:conveyor_basic"
+					type: "item"
+				}
+				{
+					id: "20E9A41573F25D8A"
+					item: "immersiveengineering:fluid_pump"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "45EA4866E57A4AC9"
+					item: { Count: 6b, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+			]
+			title: "Разливочная машина"
+			x: 5.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["183D214EB0EACE2D"]
+			id: "76644435761A0602"
+			rewards: [{
+				id: "1FD529F2A2FD076A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "14384C3CD2490B63"
+				item: "immersiveengineering:redstone_acid_bucket"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["33FB81780B4623FB"]
+			description: ["Нет"]
+			id: "2CA0F0E847F7B437"
+			subtitle: "Конец??"
+			tasks: [{
+				id: "5C9C3CE3455069B2"
+				item: "immersiveengineering:ingot_constantan"
+				type: "item"
+			}]
+			x: -14.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["1712781473245C4B"]
+			description: ["Перемещает лежащие на ней предметы"]
+			hide: true
+			hide_dependency_lines: true
+			id: "777D73AA3A04F0F4"
+			rewards: [{
+				id: "26F56124C41D85DF"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "3044226BA76B41AD"
+				item: "immersiveengineering:conveyor_basic"
+				type: "item"
+			}]
+			x: -13.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6D3794D592259870"]
+			description: ["Хочешь себе огнестрельное оружие?"]
+			id: "00BBC6E8006DF2B2"
+			rewards: [
+				{
+					count: 16
+					id: "373830E18A60BB9C"
+					item: "immersiveengineering:empty_casing"
+					type: "item"
+				}
+				{
+					id: "445FE5C23BDF1369"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "06ABE8D9AA6582F2"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:blueprint"
+					tag: {
+						blueprint: "bullet"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["00BBC6E8006DF2B2"]
+			description: ["Полный крафт смотри в jei, он не сложный."]
+			id: "5BDF367E8999A93E"
+			rewards: [{
+				count: 6
+				id: "7463E579BA168F17"
+				item: "immersiveengineering:casull"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F80353E4C1F1815"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 21
+						}
+					}
+					id: "immersiveengineering:revolver"
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["27B2F0C6D3218792"]
+			description: ["В Immersive Engineering присутствуют многоблочные резервуары для хранения жидкости которые вмещают в себя большие объёмы жидкости."]
+			icon: "minecraft:water_bucket"
+			id: "7D4EE31BE002137A"
+			rewards: [{
+				id: "6CA8B02B74B80851"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "3CA6C76F2D4D93DD"
+				title: "Хранение жидкости"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5BDF367E8999A93E"]
+			description: ["В мире или торгуя жителями можно найти предметы для изменения расцветки оружия."]
+			icon: "immersiveengineering:shader_bag_common"
+			id: "7000D49B10956833"
+			rewards: [{
+				id: "260811E09631D848"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3C1E38CE61D4C9A6"
+				title: "Шейдеры"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5BDF367E8999A93E"]
+			description: ["Думаю тут не надо много объяснять."]
+			id: "6453823EEECEA573"
+			rewards: [{
+				id: "1A01C154E88AA073"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2F437CB819FCAAD3"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 3
+						}
+					}
+					id: "immersiveengineering:railgun"
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["192ECFE915031240"]
+			description: ["Советую узнать как работает эта штука чирез книгу, потому что растений надо будет много для двух этим механизмов."]
+			id: "266D34265EC7EAE6"
+			rewards: [
+				{
+					count: 64
+					id: "0B063EF108EDD82B"
+					item: "minecraft:wheat_seeds"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "26A7D157D7A5A4AE"
+					item: "minecraft:melon_slice"
+					type: "item"
+				}
+				{
+					id: "7B244592C121A86B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "2F87BE259418B9C5"
+				item: "immersiveengineering:cloche"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["183D214EB0EACE2D"]
+			description: ["Нужен для создания кирпичей продвинутой доменной печи."]
+			id: "4A93DF74B4CB0F3E"
+			rewards: [
+				{
+					count: 64
+					id: "730C5A67F04A27A8"
+					item: "minecraft:potato"
+					type: "item"
+				}
+				{
+					id: "1DB44DA9BE65D3F8"
+					item: "minecraft:melon_slice"
+					random_bonus: 64
+					type: "item"
+				}
+				{
+					id: "1D882F1E31047733"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "1B0466DD92CE3814"
+				item: "immersiveengineering:herbicide_bucket"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DD13DA1F6021966"]
+			description: [
+				"Пора начать искать жалежи руд."
+				"Требует подать энергию."
+				"Советую читать в книге описания жил."
+			]
+			id: "43AD2CBBBCC4A1F4"
+			rewards: [
+				{
+					count: 8
+					id: "7D6B71B1E4468840"
+					item: "immersiveengineering:ingot_steel"
+					type: "item"
+				}
+				{
+					id: "2ACB7B1BC7D055F1"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "7B21FF43A905A75B"
+				item: "immersiveengineering:sample_drill"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6D3794D592259870"]
+			description: [
+				"Капает 3 на 3"
+				"Нельзя зачаровать."
+				"Можно улучшить."
+				"Заправлять в очистителе."
+			]
+			id: "2A111242BBC5944C"
+			rewards: [{
+				count: 8
+				id: "300FAAB5AADAE0E4"
+				item: "immersiveengineering:ingot_steel"
+				type: "item"
+			}]
+			subtitle: "Копаем большие дырки."
+			tasks: [{
+				id: "4C30CC975F56E959"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 5
+						}
+					}
+					id: "immersiveengineering:drill"
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2A111242BBC5944C"]
+			id: "6E761A17ADC32464"
+			rewards: [{
+				id: "3B8F45F0DAB6FC00"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "428EB3BC30CB3044"
+				item: "immersiveengineering:drillhead_steel"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["160708789B555673"]
+			id: "18D14BBD824A9C0A"
+			rewards: [
+				{
+					count: 32
+					id: "45C72B3A8CE71D99"
+					item: "minecraft:coal"
+					type: "item"
+				}
+				{
+					id: "6DFD40784EA904E5"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "44C71970E60A4FE8"
+				item: "immersiveengineering:plate_steel"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["43AD2CBBBCC4A1F4"]
+			description: [
+				"Особый мультиблок, предназначенный для добычи различных руд."
+				"Ставить ровно в чанке где была найдена жила."
+			]
+			id: "226B06C2E86DACF8"
+			rewards: [{
+				id: "7384909E088448A1"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "793DD633DE98F392"
+					item: { Count: 16b, id: "immersiveengineering:sheetmetal_steel" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "61061ED22252ACEE"
+					item: { Count: 3b, id: "immersiveengineering:radiator" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "7684A4BB54E3F86C"
+					item: { Count: 9b, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					id: "2269F3017404ADCF"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6127AE9137B42A3E"
+					item: { Count: 4b, id: "immersiveengineering:heavy_engineering" }
+					type: "item"
+				}
+				{
+					count: 26L
+					id: "5C9DDA737B0DBB3C"
+					item: { Count: 26b, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "0692A506502C0C04"
+					item: { Count: 9b, id: "immersiveengineering:storage_steel" }
+					type: "item"
+				}
+			]
+			title: "Экскаватор"
+			x: -12.525974025974016d
+			y: -1.6151785714285651d
+		}
+		{
+			dependencies: ["226B06C2E86DACF8"]
+			description: [
+				"Является наградой за задания."
+				"Советую не терять его, ибо скрафтить его нельзя, позволяет прогружать чанк в котором стоит."
+				"Удобен что бы не стоять постоянно у экскаватора, но так же можно использовать и для других целей."
+			]
+			icon: "chunkloaders:single_chunk_loader"
+			id: "046F0EE3AB8F4058"
+			rewards: [
+				{
+					id: "758494273EE1EBE1"
+					item: "chunkloaders:single_chunk_loader"
+					type: "item"
+				}
+				{
+					id: "71E5FC1C49F61AC3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "0A48A1E58B44D684"
+				title: "Chunk Loaders"
+				type: "checkmark"
+			}]
+			x: -13.5d
+			y: -2.0d
+		}
+	]
+	title: "Эра больших механизмов"
+}
